@@ -1,3 +1,6 @@
 .vscode
 .vscode/*
+*.o
+*.elf
+*.kicad_pcb-bak
 

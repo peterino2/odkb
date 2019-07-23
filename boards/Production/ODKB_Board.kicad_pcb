@@ -751,7 +751,7 @@
     (add_net "Net-(U8-Pad8)")
   )
 
-  (module Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B301BBE) (tstamp 5CB1253C)
+  (module Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B301BBE) (tstamp 5CC2976D)
     (at 329.135001 36.805001)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
@@ -787,7 +787,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B301BBE) (tstamp 5CB1254D)
+  (module Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B301BBE) (tstamp 5CC2967D)
     (at 325.785001 36.805001)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
@@ -823,7 +823,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B301BBE) (tstamp 5CB1255E)
+  (module Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B301BBE) (tstamp 5CC2973D)
     (at 332.485001 36.805001)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
@@ -859,7 +859,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B301BBE) (tstamp 5CB1256F)
+  (module Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B301BBE) (tstamp 5CC2970D)
     (at 345.645001 33.755001)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
@@ -895,7 +895,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B301BBE) (tstamp 5CB12580)
+  (module Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B301BBE) (tstamp 5CC296DD)
     (at 345.645001 35.265001)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
@@ -931,7 +931,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B301BBE) (tstamp 5CB12591)
+  (module Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B301BBE) (tstamp 5CC296AD)
     (at 348.995001 35.655001)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
@@ -5110,7 +5110,7 @@
   )
 
   (module Diode_THT:D_DO-15_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5CB22AD6)
-    (at 347 263 90)
+    (at 347.3 263.06 90)
     (descr "Diode, DO-15 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf")
     (tags "Diode DO-15 series Axial Horizontal pin pitch 10.16mm  length 7.6mm diameter 3.6mm")
     (path /5AF8EF19/5AFFF5A1)
@@ -10682,7 +10682,7 @@
     )
   )
 
-  (module Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Horizontal (layer F.Cu) (tedit 59FED737) (tstamp 5CB13B16)
+  (module Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Horizontal (layer F.Cu) (tedit 59FED737) (tstamp 5CC294B7)
     (at 358.605001 23.675001)
     (descr "Through hole angled pin header, 1x05, 1.00mm pitch, 2.0mm pin length, single row")
     (tags "Through hole angled pin header THT 1x05 1.00mm single row")
@@ -10779,7 +10779,7 @@
     )
   )
 
-  (module Connector_USB:USB_Micro-B_Molex-105017-0001 (layer F.Cu) (tedit 5A1DC0BE) (tstamp 5CB13B3F)
+  (module Connector_USB:USB_Micro-B_Molex-105017-0001 (layer F.Cu) (tedit 5A1DC0BE) (tstamp 5CC2961D)
     (at 353.155001 31.235001)
     (descr http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf)
     (tags "Micro-USB SMD Typ-B")
@@ -10852,7 +10852,7 @@
     )
   )
 
-  (module Connector_PinHeader_1.27mm:PinHeader_1x03_P1.27mm_Horizontal (layer F.Cu) (tedit 59FED6E3) (tstamp 5CB13B78)
+  (module Connector_PinHeader_1.27mm:PinHeader_1x03_P1.27mm_Horizontal (layer F.Cu) (tedit 59FED6E3) (tstamp 5CC29585)
     (at 350.385001 24.275001)
     (descr "Through hole angled pin header, 1x03, 1.27mm pitch, 4.0mm pin length, single row")
     (tags "Through hole angled pin header THT 1x03 1.27mm single row")
@@ -10928,7 +10928,7 @@
     )
   )
 
-  (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5CB13B8F)
+  (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5CC29440)
     (at 325.185001 31.475001)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
@@ -10969,7 +10969,7 @@
     )
   )
 
-  (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5CB13BA6)
+  (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5CC293FE)
     (at 338.135001 18.525001)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
@@ -11010,7 +11010,7 @@
     )
   )
 
-  (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5CB13BBD)
+  (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5CC29338)
     (at 325.185001 34.525001)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
@@ -11297,7 +11297,7 @@
     )
   )
 
-  (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5CB13C5E)
+  (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5CC2937A)
     (at 338.135001 21.575001)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
@@ -11338,7 +11338,7 @@
     )
   )
 
-  (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5CB13C75)
+  (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5CC293BC)
     (at 337.495001 31.475001)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
@@ -14636,7 +14636,7 @@
   )
 
   (module Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5CB14413)
-    (at 257.490001 79.120001)
+    (at 648.75 280.7)
     (descr "Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "cherry mx keyswitch MX1A 1.00u PCB")
     (path /5AF8EF19/5AF9114D)
@@ -14680,7 +14680,7 @@
   )
 
   (module Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5CB1442D)
-    (at 27.090001 155.920001)
+    (at 648.75 356.7)
     (descr "Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "cherry mx keyswitch MX1A 1.00u PCB")
     (path /5AF8EF19/5AF91165)
@@ -14768,7 +14768,7 @@
   )
 
   (module Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5CB14461)
-    (at 123.090001 40.720001)
+    (at 667.75 280.7)
     (descr "Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "cherry mx keyswitch MX1A 1.00u PCB")
     (path /5AF8EF19/5AF91171)
@@ -14812,7 +14812,7 @@
   )
 
   (module Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5CB1447B)
-    (at 112.59 66.46)
+    (at 667.75 337.7)
     (descr "Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "cherry mx keyswitch MX1A 1.00u PCB")
     (path /5AF8EF19/5AF91183)
@@ -14856,7 +14856,7 @@
   )
 
   (module Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5CB14495)
-    (at 84.690001 79.120001)
+    (at 667.75 356.7)
     (descr "Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "cherry mx keyswitch MX1A 1.00u PCB")
     (path /5AF8EF19/5AF91189)
@@ -14944,7 +14944,7 @@
   )
 
   (module Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5CB144C9)
-    (at 46.290001 117.520001)
+    (at 686.75 280.7)
     (descr "Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "cherry mx keyswitch MX1A 1.00u PCB")
     (path /5AF8EF19/5AF964CB)
@@ -14988,7 +14988,7 @@
   )
 
   (module Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5CB144E3)
-    (at 27.090001 136.720001)
+    (at 686.75 356.7)
     (descr "Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "cherry mx keyswitch MX1A 1.00u PCB")
     (path /5AF8EF19/5AF964E3)
@@ -15779,8 +15779,8 @@
     )
   )
 
-  (module Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5CB146B7)
-    (at 27.090001 59.920001)
+  (module Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5CC2831E)
+    (at 648.75 299.7)
     (descr "Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "cherry mx keyswitch MX1A 1.00u PCB")
     (path /5AF8EF19/5AF91153)
@@ -15824,7 +15824,7 @@
   )
 
   (module Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5CB146D1)
-    (at 46.290001 21.520001)
+    (at 667.75 299.7)
     (descr "Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "cherry mx keyswitch MX1A 1.00u PCB")
     (path /5AF8EF19/5AF91177)
@@ -15868,7 +15868,7 @@
   )
 
   (module Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5CB146EB)
-    (at 27.090001 40.720001)
+    (at 686.75 299.7)
     (descr "Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "cherry mx keyswitch MX1A 1.00u PCB")
     (path /5AF8EF19/5AF964D1)
@@ -15911,7 +15911,7 @@
     )
   )
 
-  (module Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.35x2.35mm (layer F.Cu) (tedit 5A65EC84) (tstamp 5CB1470D)
+  (module Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.35x2.35mm (layer F.Cu) (tedit 5A65EC84) (tstamp 5CC292E0)
     (at 340.195001 35.775001)
     (descr "8-Lead Thermally Enhanced Plastic Small Outline (SE) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SOIC 1.27")
@@ -16816,7 +16816,7 @@
     )
   )
 
-  (module Crystal:Crystal_HC49-4H_Vertical (layer F.Cu) (tedit 5A1AD3B7) (tstamp 5CB148FB)
+  (module Crystal:Crystal_HC49-4H_Vertical (layer F.Cu) (tedit 5A1AD3B7) (tstamp 5CC29293)
     (at 340.685001 25.925001)
     (descr "Crystal THT HC-49-4H http://5hertz.com/pdfs/04404_D.pdf")
     (tags "THT crystalHC-49-4H")
@@ -16857,7 +16857,7 @@
     )
   )
 
-  (module Crystal:Crystal_HC49-4H_Vertical (layer F.Cu) (tedit 5A1AD3B7) (tstamp 5CB14912)
+  (module Crystal:Crystal_HC49-4H_Vertical (layer F.Cu) (tedit 5A1AD3B7) (tstamp 5CC29251)
     (at 352.995001 19.825001)
     (descr "Crystal THT HC-49-4H http://5hertz.com/pdfs/04404_D.pdf")
     (tags "THT crystalHC-49-4H")
