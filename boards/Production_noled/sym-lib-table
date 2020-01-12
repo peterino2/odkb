@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name stmf0_1d-rescue)(type Legacy)(uri ${KIPRJMOD}/stmf0_1d-rescue.lib)(options "")(descr ""))
+  (lib (name ODKB_Board-rescue)(type Legacy)(uri ${KIPRJMOD}/ODKB_Board-rescue.lib)(options "")(descr ""))
+)

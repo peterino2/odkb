@@ -1,0 +1,1891 @@
+Cmp-Mod V01 Created by PcbNew   date = 7/23/2019 11:42:59 AM
+
+BeginCmp
+TimeStamp = 5CD89575
+Path = /5B659863
+Reference = J1;
+ValeurCmp = Conn_01x05_Male;
+IdModule  = Connector_PinHeader_1.27mm:PinHeader_1x05_P1.27mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13A50
+Path = /5AF8EF19/5B009D78
+Reference = D210;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14669
+Path = /5AF8EF19/5AFA47E4
+Reference = SW98;
+ValeurCmp = -;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8B68C
+Path = /5AF8EF19/5AFA47EA
+Reference = SW99;
+ValeurCmp = +;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_2.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD9F73D
+Path = /5B5EB0A7
+Reference = U2;
+ValeurCmp = STM32F103RCTx;
+IdModule  = Package_QFP:LQFP-64_10x10mm_P0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDB537C
+Path = 
+Reference = HOL3;
+ValeurCmp = onehole;
+IdModule  = MDBT42Q:onehole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDB330A
+Path = 
+Reference = HOL2;
+ValeurCmp = onehole;
+IdModule  = MDBT42Q:onehole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDB22D1
+Path = 
+Reference = HOL1;
+ValeurCmp = onehole;
+IdModule  = MDBT42Q:onehole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD89132
+Path = /5B5EB403
+Reference = R2;
+ValeurCmp = 1.5k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CC2976D
+Path = /5AFD3891
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CC29585
+Path = /5BACA85C
+Reference = J3;
+ValeurCmp = Conn_01x03_Male;
+IdModule  = Connector_PinHeader_1.27mm:PinHeader_1x03_P1.27mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CC2961D
+Path = /5B6D868F
+Reference = J2;
+ValeurCmp = USB_B_Micro;
+IdModule  = Connector_USB:USB_Micro-B_Molex-105017-0001;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CC292E0
+Path = /5AFC2AC7
+Reference = U1;
+ValeurCmp = L4931ABD33-TR;
+IdModule  = Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.35x2.35mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB145E7
+Path = /5AF8EF19/5AFA2303
+Reference = SW93;
+ValeurCmp = *;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8924D
+Path = /5AA030E9
+Reference = C2;
+ValeurCmp = 20pf;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8921D
+Path = /5AA03146
+Reference = C3;
+ValeurCmp = 20pf;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDA0920
+Path = /5AFD0D3E
+Reference = C4;
+ValeurCmp = 2.2uF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD9CE4C
+Path = /5CDF8D9E
+Reference = C5;
+ValeurCmp = 20pf;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD9CDEF
+Path = /5CDF90CB
+Reference = C6;
+ValeurCmp = 20pf;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB22AD6
+Path = /5AF8EF19/5AFFF5A1
+Reference = D110;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB12E53
+Path = /5AF8EF19/5AFFF5A7
+Reference = D111;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB12E72
+Path = /5AF8EF19/5AFFF5AD
+Reference = D112;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB12E91
+Path = /5AF8EF19/5AFFF5B3
+Reference = D113;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB12EB0
+Path = /5AF8EF19/5AFFF5B9
+Reference = D114;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB12ECF
+Path = /5AF8EF19/5AFFF5BF
+Reference = D115;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB12EEE
+Path = /5AF8EF19/5AFFFCA1
+Reference = D116;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB12F0D
+Path = /5AF8EF19/5AFFFCA7
+Reference = D117;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB12F2C
+Path = /5AF8EF19/5AFFFCAD
+Reference = D118;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB12F4B
+Path = /5AF8EF19/5AFFFCB3
+Reference = D119;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CC82595
+Path = /5AF8EF19/5AFFFCB9
+Reference = D120;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB20131
+Path = /5AF8EF19/5AFFFC77
+Reference = D121;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8CBE4
+Path = /5AF8EF19/5AFFFC7D
+Reference = D122;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB12FC7
+Path = /5AF8EF19/5AFFFC83
+Reference = D123;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB12FE6
+Path = /5AF8EF19/5AFFFC89
+Reference = D124;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13005
+Path = /5AF8EF19/5AFFFC8F
+Reference = D125;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13024
+Path = /5AF8EF19/5AFFFC95
+Reference = D126;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13043
+Path = /5AF8EF19/5B000171
+Reference = D127;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13062
+Path = /5AF8EF19/5B000177
+Reference = D128;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13081
+Path = /5AF8EF19/5B00017D
+Reference = D129;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB130A0
+Path = /5AF8EF19/5B000183
+Reference = D130;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB130BF
+Path = /5AF8EF19/5B000189
+Reference = D131;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CC822C3
+Path = /5AF8EF19/5B00014D
+Reference = D132;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB130FD
+Path = /5AF8EF19/5B000153
+Reference = D133;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1311C
+Path = /5AF8EF19/5B000159
+Reference = D134;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1313B
+Path = /5AF8EF19/5B00015F
+Reference = D135;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1315A
+Path = /5AF8EF19/5B000165
+Reference = D136;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13179
+Path = /5AF8EF19/5B0006D7
+Reference = D137;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13198
+Path = /5AF8EF19/5B0006DD
+Reference = D138;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB131B7
+Path = /5AF8EF19/5B0006E3
+Reference = D139;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB131D6
+Path = /5AF8EF19/5B0006E9
+Reference = D140;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB131F5
+Path = /5AF8EF19/5B0006EF
+Reference = D141;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13214
+Path = /5AF8EF19/5B0006B3
+Reference = D142;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13233
+Path = /5AF8EF19/5B0006B9
+Reference = D143;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13252
+Path = /5AF8EF19/5B0006BF
+Reference = D144;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13271
+Path = /5AF8EF19/5B0006C5
+Reference = D145;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13290
+Path = /5AF8EF19/5B0006CB
+Reference = D146;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB132AF
+Path = /5AF8EF19/5B0015A2
+Reference = D147;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB132CE
+Path = /5AF8EF19/5B0015A8
+Reference = D148;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB132ED
+Path = /5AF8EF19/5B0015AE
+Reference = D149;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1330C
+Path = /5AF8EF19/5B0015B4
+Reference = D150;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1332B
+Path = /5AF8EF19/5B0015BA
+Reference = D151;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1334A
+Path = /5AF8EF19/5B0015C0
+Reference = D152;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13369
+Path = /5AF8EF19/5B00157E
+Reference = D153;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13388
+Path = /5AF8EF19/5B001584
+Reference = D154;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB133A7
+Path = /5AF8EF19/5B00158A
+Reference = D155;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB133C6
+Path = /5AF8EF19/5B001590
+Reference = D156;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB133E5
+Path = /5AF8EF19/5B001596
+Reference = D157;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CC81909
+Path = /5AF8EF19/5B001AF0
+Reference = D158;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13423
+Path = /5AF8EF19/5B001AF6
+Reference = D159;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13442
+Path = /5AF8EF19/5B001AFC
+Reference = D160;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13461
+Path = /5AF8EF19/5B001B02
+Reference = D161;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13480
+Path = /5AF8EF19/5B001B08
+Reference = D162;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1349F
+Path = /5AF8EF19/5B001ACC
+Reference = D163;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB134BE
+Path = /5AF8EF19/5B001AD2
+Reference = D164;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB134DD
+Path = /5AF8EF19/5B001AD8
+Reference = D165;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB134FC
+Path = /5AF8EF19/5B001ADE
+Reference = D166;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1351B
+Path = /5AF8EF19/5B001AE4
+Reference = D167;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1353A
+Path = /5AF8EF19/5B001AEA
+Reference = D168;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13559
+Path = /5AF8EF19/5B002978
+Reference = D169;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13578
+Path = /5AF8EF19/5B00297E
+Reference = D170;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13597
+Path = /5AF8EF19/5B002984
+Reference = D171;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB135B6
+Path = /5AF8EF19/5B00298A
+Reference = D172;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB135D5
+Path = /5AF8EF19/5B002996
+Reference = D173;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB135F4
+Path = /5AF8EF19/5B002954
+Reference = D174;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13613
+Path = /5AF8EF19/5B002960
+Reference = D175;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13632
+Path = /5AF8EF19/5B002972
+Reference = D176;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13651
+Path = /5AF8EF19/5B004C6B
+Reference = D177;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13670
+Path = /5AF8EF19/5B004C71
+Reference = D178;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1368F
+Path = /5AF8EF19/5B004C77
+Reference = D179;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB136AE
+Path = /5AF8EF19/5B004C7D
+Reference = D180;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB136CD
+Path = /5AF8EF19/5B004C83
+Reference = D181;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB136EC
+Path = /5AF8EF19/5B004C89
+Reference = D182;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CC8279A
+Path = /5AF8EF19/5B006938
+Reference = D183;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1372A
+Path = /5AF8EF19/5B00693E
+Reference = D184;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13749
+Path = /5AF8EF19/5B006944
+Reference = D185;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13768
+Path = /5AF8EF19/5B006956
+Reference = D186;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13787
+Path = /5AF8EF19/5B00869E
+Reference = D187;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB137A6
+Path = /5AF8EF19/5B0086A4
+Reference = D188;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB137C5
+Path = /5AF8EF19/5B0086AA
+Reference = D189;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB137E4
+Path = /5AF8EF19/5B0086B6
+Reference = D190;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13803
+Path = /5AF8EF19/5B0086BC
+Reference = D191;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13822
+Path = /5AF8EF19/5B008BF2
+Reference = D192;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13841
+Path = /5AF8EF19/5B008BF8
+Reference = D193;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13860
+Path = /5AF8EF19/5B008BFE
+Reference = D194;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1387F
+Path = /5AF8EF19/5B008C10
+Reference = D195;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CC821EC
+Path = /5AF8EF19/5B0094D6
+Reference = D196;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB138BD
+Path = /5AF8EF19/5B0094DC
+Reference = D197;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB138DC
+Path = /5AF8EF19/5B0094E2
+Reference = D198;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB138FB
+Path = /5AF8EF19/5B0094E8
+Reference = D199;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CC90F7D
+Path = /5AF8EF19/5B0094EE
+Reference = D200;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13939
+Path = /5AF8EF19/5B0094B2
+Reference = D201;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CC916EE
+Path = /5AF8EF19/5B0094B8
+Reference = D202;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CC91DB6
+Path = /5AF8EF19/5B0094BE
+Reference = D203;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13996
+Path = /5AF8EF19/5B0094C4
+Reference = D204;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB139B5
+Path = /5AF8EF19/5B009D9C
+Reference = D205;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB139D4
+Path = /5AF8EF19/5B009DA2
+Reference = D206;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB139F3
+Path = /5AF8EF19/5B009DA8
+Reference = D207;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13A12
+Path = /5AF8EF19/5B009DAE
+Reference = D208;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13A31
+Path = /5AF8EF19/5B009DB4
+Reference = D209;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13A6F
+Path = /5AF8EF19/5B009D7E
+Reference = D211;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8BFF6
+Path = /5AF8EF19/5B009D8A
+Reference = D212;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13C8F
+Path = /5AF8EF19/5AF8EF55
+Reference = SW1;
+ValeurCmp = ESC;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13CA9
+Path = /5AF8EF19/5AF8EFE6
+Reference = SW2;
+ValeurCmp = `;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13D2B
+Path = /5AF8EF19/5AF8FA31
+Reference = SW7;
+ValeurCmp = 1;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13D45
+Path = /5AF8EF19/5AF8FA37
+Reference = SW8;
+ValeurCmp = Q;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13D5F
+Path = /5AF8EF19/5AF8FA3D
+Reference = SW9;
+ValeurCmp = A;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13D79
+Path = /5AF8EF19/5AF8FA43
+Reference = SW10;
+ValeurCmp = Z;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB213E4
+Path = /5AF8EF19/5AF8FF5F
+Reference = SW12;
+ValeurCmp = F1;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13DC7
+Path = /5AF8EF19/5AF8FF65
+Reference = SW13;
+ValeurCmp = 2;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13DE1
+Path = /5AF8EF19/5AF8FF6B
+Reference = SW14;
+ValeurCmp = W;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13DFB
+Path = /5AF8EF19/5AF8FF71
+Reference = SW15;
+ValeurCmp = S;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13E15
+Path = /5AF8EF19/5AF8FF77
+Reference = SW16;
+ValeurCmp = X;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CC92D96
+Path = /5AF8EF19/5AF8FF83
+Reference = SW18;
+ValeurCmp = F2;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13E63
+Path = /5AF8EF19/5AF8FF89
+Reference = SW19;
+ValeurCmp = 3;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13E7D
+Path = /5AF8EF19/5AF8FF8F
+Reference = SW20;
+ValeurCmp = E;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13E97
+Path = /5AF8EF19/5AF8FF95
+Reference = SW21;
+ValeurCmp = D;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13EB1
+Path = /5AF8EF19/5AF8FF9B
+Reference = SW22;
+ValeurCmp = C;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13ECB
+Path = /5AF8EF19/5AF903AF
+Reference = SW23;
+ValeurCmp = F3;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13EE5
+Path = /5AF8EF19/5AF903B5
+Reference = SW24;
+ValeurCmp = 4;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13EFF
+Path = /5AF8EF19/5AF903BB
+Reference = SW25;
+ValeurCmp = R;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13F19
+Path = /5AF8EF19/5AF903C1
+Reference = SW26;
+ValeurCmp = F;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13F33
+Path = /5AF8EF19/5AF903C7
+Reference = SW27;
+ValeurCmp = V;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13F4D
+Path = /5AF8EF19/5AF903D3
+Reference = SW28;
+ValeurCmp = F4;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13F67
+Path = /5AF8EF19/5AF903D9
+Reference = SW29;
+ValeurCmp = 5;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13F81
+Path = /5AF8EF19/5AF903DF
+Reference = SW30;
+ValeurCmp = T;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13F9B
+Path = /5AF8EF19/5AF903E5
+Reference = SW31;
+ValeurCmp = G;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13FB5
+Path = /5AF8EF19/5AF903EB
+Reference = SW32;
+ValeurCmp = B;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB20C43
+Path = /5AF8EF19/5AF903F7
+Reference = SW33;
+ValeurCmp = F5;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB13FE9
+Path = /5AF8EF19/5AF903FD
+Reference = SW34;
+ValeurCmp = 6;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14003
+Path = /5AF8EF19/5AF90403
+Reference = SW35;
+ValeurCmp = Y;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1401D
+Path = /5AF8EF19/5AF90409
+Reference = SW36;
+ValeurCmp = H;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14037
+Path = /5AF8EF19/5AF9040F
+Reference = SW37;
+ValeurCmp = N;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB2169B
+Path = /5AF8EF19/5AF9041B
+Reference = SW38;
+ValeurCmp = F6;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1406B
+Path = /5AF8EF19/5AF90421
+Reference = SW39;
+ValeurCmp = 7;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14085
+Path = /5AF8EF19/5AF90427
+Reference = SW40;
+ValeurCmp = U;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1409F
+Path = /5AF8EF19/5AF9042D
+Reference = SW41;
+ValeurCmp = J;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB140B9
+Path = /5AF8EF19/5AF90433
+Reference = SW42;
+ValeurCmp = M;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB21735
+Path = /5AF8EF19/5AF9106F
+Reference = SW44;
+ValeurCmp = F7;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14107
+Path = /5AF8EF19/5AF91075
+Reference = SW45;
+ValeurCmp = 8;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14121
+Path = /5AF8EF19/5AF9107B
+Reference = SW46;
+ValeurCmp = I;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1413B
+Path = /5AF8EF19/5AF91081
+Reference = SW47;
+ValeurCmp = K;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14155
+Path = /5AF8EF19/5AF91087
+Reference = SW48;
+ValeurCmp = ,<;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1416F
+Path = /5AF8EF19/5AF91093
+Reference = SW49;
+ValeurCmp = F8;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB21EE5
+Path = /5AF8EF19/5AF91099
+Reference = SW50;
+ValeurCmp = 9;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB21F7B
+Path = /5AF8EF19/5AF9109F
+Reference = SW51;
+ValeurCmp = O;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB21FC6
+Path = /5AF8EF19/5AF910A5
+Reference = SW52;
+ValeurCmp = L;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB141D7
+Path = /5AF8EF19/5AF910AB
+Reference = SW53;
+ValeurCmp = .>;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB141F1
+Path = /5AF8EF19/5AF910B7
+Reference = SW54;
+ValeurCmp = F9;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB2213D
+Path = /5AF8EF19/5AF910BD
+Reference = SW55;
+ValeurCmp = 0;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB22011
+Path = /5AF8EF19/5AF910C3
+Reference = SW56;
+ValeurCmp = P;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB21F30
+Path = /5AF8EF19/5AF910C9
+Reference = SW57;
+ValeurCmp = ;;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14259
+Path = /5AF8EF19/5AF910CF
+Reference = SW58;
+ValeurCmp = /?;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1428D
+Path = /5AF8EF19/5AF910DB
+Reference = SW60;
+ValeurCmp = F10;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB2205C
+Path = /5AF8EF19/5AF910E1
+Reference = SW61;
+ValeurCmp = -;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB220F2
+Path = /5AF8EF19/5AF910E7
+Reference = SW62;
+ValeurCmp = [;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB220A7
+Path = /5AF8EF19/5AF910ED
+Reference = SW63;
+ValeurCmp = ';
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB21A86
+Path = /5AF8EF19/5AF910FF
+Reference = SW65;
+ValeurCmp = F11;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14329
+Path = /5AF8EF19/5AF9110B
+Reference = SW66;
+ValeurCmp = ];
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1435D
+Path = /5AF8EF19/5AF91123
+Reference = SW68;
+ValeurCmp = F12;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14391
+Path = /5AF8EF19/5AF9112F
+Reference = SW70;
+ValeurCmp = \;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB143F9
+Path = /5AF8EF19/5AF91147
+Reference = SW74;
+ValeurCmp = PRINT;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14413
+Path = /5AF8EF19/5AF9114D
+Reference = SW75;
+ValeurCmp = INS;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1442D
+Path = /5AF8EF19/5AF91165
+Reference = SW76;
+ValeurCmp = ARROW_LEFT;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14447
+Path = /5AF8EF19/5AF9116B
+Reference = SW77;
+ValeurCmp = SCRLK;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14461
+Path = /5AF8EF19/5AF91171
+Reference = SW78;
+ValeurCmp = HOME;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1447B
+Path = /5AF8EF19/5AF91183
+Reference = SW79;
+ValeurCmp = ARROW_UP;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14495
+Path = /5AF8EF19/5AF91189
+Reference = SW80;
+ValeurCmp = ARROW_DOWN;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB144AF
+Path = /5AF8EF19/5AF964C5
+Reference = SW81;
+ValeurCmp = PAUSE;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB144C9
+Path = /5AF8EF19/5AF964CB
+Reference = SW82;
+ValeurCmp = PAGEUP;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB144E3
+Path = /5AF8EF19/5AF964E3
+Reference = SW83;
+ValeurCmp = ARROW_RIGHT;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB144FD
+Path = /5AF8EF19/5AFA22C7
+Reference = SW84;
+ValeurCmp = NUMLK;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14517
+Path = /5AF8EF19/5AFA22CD
+Reference = SW85;
+ValeurCmp = 7;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14531
+Path = /5AF8EF19/5AFA22D3
+Reference = SW86;
+ValeurCmp = 4;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1454B
+Path = /5AF8EF19/5AFA22D9
+Reference = SW87;
+ValeurCmp = 1;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1457F
+Path = /5AF8EF19/5AFA22E5
+Reference = SW89;
+ValeurCmp = /;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14599
+Path = /5AF8EF19/5AFA22EB
+Reference = SW90;
+ValeurCmp = 8;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB145B3
+Path = /5AF8EF19/5AFA22F1
+Reference = SW91;
+ValeurCmp = 5;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB145CD
+Path = /5AF8EF19/5AFA22F7
+Reference = SW92;
+ValeurCmp = 2;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14601
+Path = /5AF8EF19/5AFA2309
+Reference = SW94;
+ValeurCmp = 9;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1461B
+Path = /5AF8EF19/5AFA230F
+Reference = SW95;
+ValeurCmp = 6;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB14635
+Path = /5AF8EF19/5AFA2315
+Reference = SW96;
+ValeurCmp = 3;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB1464F
+Path = /5AF8EF19/5AFA231B
+Reference = SW97;
+ValeurCmp = .;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CC2831E
+Path = /5AF8EF19/5AF91153
+Reference = SW101;
+ValeurCmp = DEL;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB146D1
+Path = /5AF8EF19/5AF91177
+Reference = SW102;
+ValeurCmp = END;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB146EB
+Path = /5AF8EF19/5AF964D1
+Reference = SW103;
+ValeurCmp = PGDN;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D374C0E
+Path = /5AA02FDF
+Reference = Y1;
+ValeurCmp = 8MHz;
+IdModule  = Crystal:Crystal_HC49-4H_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD9CDB3
+Path = /5CDF8C00
+Reference = Y2;
+ValeurCmp = 32.786k;
+IdModule  = Crystal:Crystal_HC49-4H_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB22803
+Path = /5AF8EF19/5CE6C1CE
+Reference = D216;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_THT:D_DO-15_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CB2281D
+Path = /5AF8EF19/5CE6C39C
+Reference = SW104;
+ValeurCmp = =;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD891E7
+Path = /5AA031C3
+Reference = R1;
+ValeurCmp = 1M;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD89142
+Path = /5BACA869
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD9D3AF
+Path = /5CBDCEB7
+Reference = R10;
+ValeurCmp = 20;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD9D37F
+Path = /5CBBCD04
+Reference = R11;
+ValeurCmp = 20;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8B51A
+Path = /5AF8EF19/5AF8F071
+Reference = SW3;
+ValeurCmp = TAB;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.50u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8B533
+Path = /5AF8EF19/5AF8F143
+Reference = SW4;
+ValeurCmp = CAPS;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.75u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8B54C
+Path = /5AF8EF19/5AF8F23F
+Reference = SW5;
+ValeurCmp = LSHIFT;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_2.25u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8B569
+Path = /5AF8EF19/5AF8F285
+Reference = SW6;
+ValeurCmp = CTRL;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8B582
+Path = /5AF8EF19/5AF8FA49
+Reference = SW11;
+ValeurCmp = WIN;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8B59B
+Path = /5AF8EF19/5AF8FF7D
+Reference = SW17;
+ValeurCmp = ALT;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8B5B4
+Path = /5AF8EF19/5AF90439
+Reference = SW43;
+ValeurCmp = SPC;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_6.25u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8B5D1
+Path = /5AF8EF19/5AFCD2A6
+Reference = SW59;
+ValeurCmp = ALT;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8B5EA
+Path = /5AF8EF19/5AF910F9
+Reference = SW64;
+ValeurCmp = FN;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8B603
+Path = /5AF8EF19/5AF9111D
+Reference = SW67;
+ValeurCmp = FXN;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8B61C
+Path = /5AF8EF19/5AF91129
+Reference = SW69;
+ValeurCmp = BACKSPACE;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_2.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8B639
+Path = /5AF8EF19/5AF91111
+Reference = SW71;
+ValeurCmp = ENTER;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_2.25u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8B656
+Path = /5AF8EF19/5AF9113B
+Reference = SW72;
+ValeurCmp = RSHIFT;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_2.75u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8B673
+Path = /5AF8EF19/5AF91141
+Reference = SW73;
+ValeurCmp = CTRL;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8B6A9
+Path = /5AF8EF19/5AFA47F6
+Reference = SW100;
+ValeurCmp = ENT;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_2.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD8C0D5
+Path = /5AF8EF19/5AFA22DF
+Reference = SW88;
+ValeurCmp = 0;
+IdModule  = Button_Switch_Keyboard:SW_Cherry_MX1A_2.00u_PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDB0273
+Path = 
+Reference = HOL0;
+ValeurCmp = onehole;
+IdModule  = MDBT42Q:onehole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD9C57E
+Path = /5CCD99F3
+Reference = D1;
+ValeurCmp = led_caps;
+IdModule  = LED_THT:LED_Rectangular_W5.0mm_H2.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD9C32D
+Path = /5CCD9A75
+Reference = D2;
+ValeurCmp = led_scrlk;
+IdModule  = LED_THT:LED_Rectangular_W5.0mm_H2.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD9C344
+Path = /5CCD9ABB
+Reference = D3;
+ValeurCmp = led_numlk;
+IdModule  = LED_THT:LED_Rectangular_W5.0mm_H2.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD9C355
+Path = /5CD080A9
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD9C366
+Path = /5CD08171
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CD9C377
+Path = /5CD081BB
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+EndListe

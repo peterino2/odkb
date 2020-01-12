@@ -1,0 +1,4 @@
+microcontroller = stm32f103rct6 ( For current production)
+microcontroller_blue_pill_dev = stm32f103C8
+led_matrix_driver = IS31FL3731 ( see if we can get LQFP if possible.
+
