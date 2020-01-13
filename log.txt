@@ -1,0 +1,3 @@
+Jan 12th: 
+- Schematic built for keyboards left and right
+- investigated usb-c connector, relatively cheap option available witht TUSB321 

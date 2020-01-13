@@ -2,3 +2,10 @@ microcontroller = stm32f103rct6 ( For current production)
 microcontroller_blue_pill_dev = stm32f103C8
 led_matrix_driver = IS31FL3731 ( see if we can get LQFP if possible.
 where_to_get_kicad_parts = snapeda
+ky_win_knob = https://www.aliexpress.com/item/33028853050.html?spm=a2g0o.cart.0.0.2d953c00yteE5o&mp=1'
+kalih plate mounted stabilizers = https://www.aliexpress.com/item/33039182740.html?spm=a2g0o.cart.0.0.47663c00JVWxt5&mp=1
+keycaps = https://www.aliexpress.com/item/32980986552.html?spm=a2g0o.cart.00.47663c00JVWxt5&mp=1 ( got the black ones )
+potential for usb c management IC = https://www.digikey.ca/product-detail/en/stmicroelectronics/STUSB1600AQTR/497-17647-1-ND/7702486
+usb c management ic reference design = https://www.digikey.ca/reference-designs/en/power-management/usb-power-delivery/2582
+
+recitfication and clamp diode: https://www.digikey.ca/product-detail/en/stmicroelectronics/USBLC6-2SC6/497-5235-1-ND/1121688
