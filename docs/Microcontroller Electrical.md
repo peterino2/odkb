@@ -26,8 +26,11 @@ The production model; forga, contains almost 4 times as much memory as the nolgo
 o
 -- production-shatterwing
     + split keyboard design
-    + kalih choc low profile switches
-    + individual LED Control
+    + individual LED Control with small smt LEDs
+    + ch
+    + my own bootloaded firmware but also being able to build in arduino libraries. 
+      for maximum dunk
+    + twin pcb/dual microcontroller design.
     
 ## forga: pinout confirmation
 
