@@ -1,0 +1,2891 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A2 23386 16535
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Notes 10610 3275 0    50   ~ 0
+2
+Text Notes 10865 3280 0    50   ~ 0
+4
+Text Notes 10990 3280 0    50   ~ 0
+5
+Text Notes 11125 3270 0    50   ~ 0
+6
+Text Notes 11260 3280 0    50   ~ 0
+7
+Text Notes 11520 3270 0    50   ~ 0
+9
+Text Notes 11645 3275 0    50   ~ 0
+0
+Text Notes 11785 3265 0    50   ~ 0
+-
+Text Notes 11920 3265 0    50   ~ 0
+=
+$Comp
+L switches:CherryMX S1
+U 1 1 5F741CBE
+P 6950 5300
+F 0 "S1" H 6935 5535 50  0000 C CNN
+F 1 "esc" H 6935 5444 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7160 5300 50  0001 C CNN
+F 3 "" H 7160 5300 50  0001 C CNN
+	1    6950 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D1
+U 1 1 5F814D10
+P 6950 5400
+F 0 "D1" H 7100 5100 50  0000 C CNN
+F 1 "D_Schottky" H 6925 5500 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 6950 5400 50  0001 C CNN
+F 3 "~" H 6950 5400 50  0001 C CNN
+	1    6950 5400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7100 5300 7100 5350
+Wire Wire Line
+	7100 5350 6800 5350
+Wire Wire Line
+	6800 5350 6800 5400
+Wire Wire Line
+	7100 5300 7070 5300
+$Comp
+L switches:CherryMX S2
+U 1 1 5F94BFE6
+P 6950 5850
+F 0 "S2" H 6935 6085 50  0000 C CNN
+F 1 "tab1.5" H 6935 5994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_Plate" H 7160 5850 50  0001 C CNN
+F 3 "" H 7160 5850 50  0001 C CNN
+	1    6950 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D2
+U 1 1 5F94C988
+P 6950 5950
+F 0 "D2" H 7100 5650 50  0000 C CNN
+F 1 "D_Schottky" H 6925 6050 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 6950 5950 50  0001 C CNN
+F 3 "~" H 6950 5950 50  0001 C CNN
+	1    6950 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7100 5850 7100 5900
+Wire Wire Line
+	7100 5900 6800 5900
+Wire Wire Line
+	6800 5900 6800 5950
+Wire Wire Line
+	7100 5850 7070 5850
+$Comp
+L switches:CherryMX S3
+U 1 1 5F94E881
+P 6950 6400
+F 0 "S3" H 6935 6635 50  0000 C CNN
+F 1 "caps1.75" H 6935 6544 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_Plate" H 7160 6400 50  0001 C CNN
+F 3 "" H 7160 6400 50  0001 C CNN
+	1    6950 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D3
+U 1 1 5F94F24B
+P 6950 6500
+F 0 "D3" H 7100 6200 50  0000 C CNN
+F 1 "D_Schottky" H 6925 6600 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 6950 6500 50  0001 C CNN
+F 3 "~" H 6950 6500 50  0001 C CNN
+	1    6950 6500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7100 6400 7100 6450
+Wire Wire Line
+	7100 6450 6800 6450
+Wire Wire Line
+	6800 6450 6800 6500
+Wire Wire Line
+	7100 6400 7070 6400
+$Comp
+L switches:CherryMX S4
+U 1 1 5F94F259
+P 6950 6950
+F 0 "S4" H 6935 7185 50  0000 C CNN
+F 1 "shiftl_225" H 6935 7094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_Plate" H 7160 6950 50  0001 C CNN
+F 3 "" H 7160 6950 50  0001 C CNN
+	1    6950 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D4
+U 1 1 5F94F263
+P 6950 7050
+F 0 "D4" H 7100 6750 50  0000 C CNN
+F 1 "D_Schottky" H 6925 7150 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 6950 7050 50  0001 C CNN
+F 3 "~" H 6950 7050 50  0001 C CNN
+	1    6950 7050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7100 6950 7100 7000
+Wire Wire Line
+	7100 7000 6800 7000
+Wire Wire Line
+	6800 7000 6800 7050
+Wire Wire Line
+	7100 6950 7070 6950
+$Comp
+L switches:CherryMX S5
+U 1 1 5F9535D1
+P 6950 7500
+F 0 "S5" H 6935 7735 50  0000 C CNN
+F 1 "ctrl_125" H 6935 7644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 7160 7500 50  0001 C CNN
+F 3 "" H 7160 7500 50  0001 C CNN
+	1    6950 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D5
+U 1 1 5F953FEB
+P 6950 7600
+F 0 "D5" H 7100 7300 50  0000 C CNN
+F 1 "D_Schottky" H 6925 7700 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 6950 7600 50  0001 C CNN
+F 3 "~" H 6950 7600 50  0001 C CNN
+	1    6950 7600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7100 7500 7100 7550
+Wire Wire Line
+	7100 7550 6800 7550
+Wire Wire Line
+	6800 7550 6800 7600
+Wire Wire Line
+	7100 7500 7070 7500
+$Comp
+L switches:CherryMX S6
+U 1 1 5F955CF9
+P 7600 5300
+F 0 "S6" H 7585 5535 50  0000 C CNN
+F 1 "1" H 7585 5444 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7810 5300 50  0001 C CNN
+F 3 "" H 7810 5300 50  0001 C CNN
+	1    7600 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D6
+U 1 1 5F95673B
+P 7600 5400
+F 0 "D6" H 7750 5100 50  0000 C CNN
+F 1 "D_Schottky" H 7575 5500 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 7600 5400 50  0001 C CNN
+F 3 "~" H 7600 5400 50  0001 C CNN
+	1    7600 5400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7750 5300 7750 5350
+Wire Wire Line
+	7750 5350 7450 5350
+Wire Wire Line
+	7450 5350 7450 5400
+Wire Wire Line
+	7750 5300 7720 5300
+$Comp
+L switches:CherryMX S7
+U 1 1 5F956749
+P 7600 5850
+F 0 "S7" H 7585 6085 50  0000 C CNN
+F 1 "q" H 7585 5994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7810 5850 50  0001 C CNN
+F 3 "" H 7810 5850 50  0001 C CNN
+	1    7600 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D7
+U 1 1 5F956753
+P 7600 5950
+F 0 "D7" H 7750 5650 50  0000 C CNN
+F 1 "D_Schottky" H 7575 6050 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 7600 5950 50  0001 C CNN
+F 3 "~" H 7600 5950 50  0001 C CNN
+	1    7600 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7750 5850 7750 5900
+Wire Wire Line
+	7750 5900 7450 5900
+Wire Wire Line
+	7450 5900 7450 5950
+Wire Wire Line
+	7750 5850 7720 5850
+$Comp
+L switches:CherryMX S8
+U 1 1 5F956761
+P 7600 6400
+F 0 "S8" H 7585 6635 50  0000 C CNN
+F 1 "a" H 7585 6544 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7810 6400 50  0001 C CNN
+F 3 "" H 7810 6400 50  0001 C CNN
+	1    7600 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D8
+U 1 1 5F95676B
+P 7600 6500
+F 0 "D8" H 7750 6200 50  0000 C CNN
+F 1 "D_Schottky" H 7575 6600 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 7600 6500 50  0001 C CNN
+F 3 "~" H 7600 6500 50  0001 C CNN
+	1    7600 6500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7750 6400 7750 6450
+Wire Wire Line
+	7750 6450 7450 6450
+Wire Wire Line
+	7450 6450 7450 6500
+Wire Wire Line
+	7750 6400 7720 6400
+$Comp
+L switches:CherryMX S9
+U 1 1 5F956779
+P 7600 6950
+F 0 "S9" H 7585 7185 50  0000 C CNN
+F 1 "z" H 7585 7094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 7810 6950 50  0001 C CNN
+F 3 "" H 7810 6950 50  0001 C CNN
+	1    7600 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D9
+U 1 1 5F956783
+P 7600 7050
+F 0 "D9" H 7750 6750 50  0000 C CNN
+F 1 "D_Schottky" H 7575 7150 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 7600 7050 50  0001 C CNN
+F 3 "~" H 7600 7050 50  0001 C CNN
+	1    7600 7050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7750 6950 7750 7000
+Wire Wire Line
+	7750 7000 7450 7000
+Wire Wire Line
+	7450 7000 7450 7050
+Wire Wire Line
+	7750 6950 7720 6950
+$Comp
+L switches:CherryMX S10
+U 1 1 5F956791
+P 7600 7500
+F 0 "S10" H 7585 7735 50  0000 C CNN
+F 1 "win" H 7585 7644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 7810 7500 50  0001 C CNN
+F 3 "" H 7810 7500 50  0001 C CNN
+	1    7600 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D10
+U 1 1 5F95679B
+P 7600 7600
+F 0 "D10" H 7750 7300 50  0000 C CNN
+F 1 "D_Schottky" H 7575 7700 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 7600 7600 50  0001 C CNN
+F 3 "~" H 7600 7600 50  0001 C CNN
+	1    7600 7600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7750 7500 7750 7550
+Wire Wire Line
+	7750 7550 7450 7550
+Wire Wire Line
+	7450 7550 7450 7600
+Wire Wire Line
+	7750 7500 7720 7500
+$Comp
+L switches:CherryMX S11
+U 1 1 5F95DFAD
+P 8250 5300
+F 0 "S11" H 8235 5535 50  0000 C CNN
+F 1 "2" H 8235 5444 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8460 5300 50  0001 C CNN
+F 3 "" H 8460 5300 50  0001 C CNN
+	1    8250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D11
+U 1 1 5F95EAB7
+P 8250 5400
+F 0 "D11" H 8400 5100 50  0000 C CNN
+F 1 "D_Schottky" H 8225 5500 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 8250 5400 50  0001 C CNN
+F 3 "~" H 8250 5400 50  0001 C CNN
+	1    8250 5400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8400 5300 8400 5350
+Wire Wire Line
+	8400 5350 8100 5350
+Wire Wire Line
+	8100 5350 8100 5400
+Wire Wire Line
+	8400 5300 8370 5300
+$Comp
+L switches:CherryMX S12
+U 1 1 5F95EAC5
+P 8250 5850
+F 0 "S12" H 8235 6085 50  0000 C CNN
+F 1 "w" H 8235 5994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8460 5850 50  0001 C CNN
+F 3 "" H 8460 5850 50  0001 C CNN
+	1    8250 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D12
+U 1 1 5F95EACF
+P 8250 5950
+F 0 "D12" H 8400 5650 50  0000 C CNN
+F 1 "D_Schottky" H 8225 6050 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 8250 5950 50  0001 C CNN
+F 3 "~" H 8250 5950 50  0001 C CNN
+	1    8250 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8400 5850 8400 5900
+Wire Wire Line
+	8400 5900 8100 5900
+Wire Wire Line
+	8100 5900 8100 5950
+Wire Wire Line
+	8400 5850 8370 5850
+$Comp
+L switches:CherryMX S13
+U 1 1 5F95EADD
+P 8250 6400
+F 0 "S13" H 8235 6635 50  0000 C CNN
+F 1 "s" H 8235 6544 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8460 6400 50  0001 C CNN
+F 3 "" H 8460 6400 50  0001 C CNN
+	1    8250 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D13
+U 1 1 5F95EAE7
+P 8250 6500
+F 0 "D13" H 8400 6200 50  0000 C CNN
+F 1 "D_Schottky" H 8225 6600 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 8250 6500 50  0001 C CNN
+F 3 "~" H 8250 6500 50  0001 C CNN
+	1    8250 6500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8400 6400 8400 6450
+Wire Wire Line
+	8400 6450 8100 6450
+Wire Wire Line
+	8100 6450 8100 6500
+Wire Wire Line
+	8400 6400 8370 6400
+$Comp
+L switches:CherryMX S14
+U 1 1 5F95EAF5
+P 8250 6950
+F 0 "S14" H 8235 7185 50  0000 C CNN
+F 1 "x" H 8235 7094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 8460 6950 50  0001 C CNN
+F 3 "" H 8460 6950 50  0001 C CNN
+	1    8250 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D14
+U 1 1 5F95EAFF
+P 8250 7050
+F 0 "D14" H 8400 6750 50  0000 C CNN
+F 1 "D_Schottky" H 8225 7150 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 8250 7050 50  0001 C CNN
+F 3 "~" H 8250 7050 50  0001 C CNN
+	1    8250 7050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8400 6950 8400 7000
+Wire Wire Line
+	8400 7000 8100 7000
+Wire Wire Line
+	8100 7000 8100 7050
+Wire Wire Line
+	8400 6950 8370 6950
+$Comp
+L switches:CherryMX S15
+U 1 1 5F95EB0D
+P 8250 7500
+F 0 "S15" H 8235 7735 50  0000 C CNN
+F 1 "lalt" H 8235 7644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 8460 7500 50  0001 C CNN
+F 3 "" H 8460 7500 50  0001 C CNN
+	1    8250 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D15
+U 1 1 5F95EB17
+P 8250 7600
+F 0 "D15" H 8400 7300 50  0000 C CNN
+F 1 "D_Schottky" H 8225 7700 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 8250 7600 50  0001 C CNN
+F 3 "~" H 8250 7600 50  0001 C CNN
+	1    8250 7600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8400 7500 8400 7550
+Wire Wire Line
+	8400 7550 8100 7550
+Wire Wire Line
+	8100 7550 8100 7600
+Wire Wire Line
+	8400 7500 8370 7500
+$Comp
+L switches:CherryMX S16
+U 1 1 5F95EB25
+P 8900 5300
+F 0 "S16" H 8885 5535 50  0000 C CNN
+F 1 "3" H 8885 5444 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 9110 5300 50  0001 C CNN
+F 3 "" H 9110 5300 50  0001 C CNN
+	1    8900 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D16
+U 1 1 5F95EB2F
+P 8900 5400
+F 0 "D16" H 9050 5100 50  0000 C CNN
+F 1 "D_Schottky" H 8875 5500 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 8900 5400 50  0001 C CNN
+F 3 "~" H 8900 5400 50  0001 C CNN
+	1    8900 5400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9050 5300 9050 5350
+Wire Wire Line
+	9050 5350 8750 5350
+Wire Wire Line
+	8750 5350 8750 5400
+Wire Wire Line
+	9050 5300 9020 5300
+$Comp
+L switches:CherryMX S17
+U 1 1 5F95EB3D
+P 8900 5850
+F 0 "S17" H 8885 6085 50  0000 C CNN
+F 1 "e" H 8885 5994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 9110 5850 50  0001 C CNN
+F 3 "" H 9110 5850 50  0001 C CNN
+	1    8900 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D17
+U 1 1 5F95EB47
+P 8900 5950
+F 0 "D17" H 9050 5650 50  0000 C CNN
+F 1 "D_Schottky" H 8875 6050 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 8900 5950 50  0001 C CNN
+F 3 "~" H 8900 5950 50  0001 C CNN
+	1    8900 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9050 5850 9050 5900
+Wire Wire Line
+	9050 5900 8750 5900
+Wire Wire Line
+	8750 5900 8750 5950
+Wire Wire Line
+	9050 5850 9020 5850
+$Comp
+L switches:CherryMX S18
+U 1 1 5F95EB55
+P 8900 6400
+F 0 "S18" H 8885 6635 50  0000 C CNN
+F 1 "d" H 8885 6544 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 9110 6400 50  0001 C CNN
+F 3 "" H 9110 6400 50  0001 C CNN
+	1    8900 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D18
+U 1 1 5F95EB5F
+P 8900 6500
+F 0 "D18" H 9050 6200 50  0000 C CNN
+F 1 "D_Schottky" H 8875 6600 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 8900 6500 50  0001 C CNN
+F 3 "~" H 8900 6500 50  0001 C CNN
+	1    8900 6500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9050 6400 9050 6450
+Wire Wire Line
+	9050 6450 8750 6450
+Wire Wire Line
+	8750 6450 8750 6500
+Wire Wire Line
+	9050 6400 9020 6400
+$Comp
+L switches:CherryMX S19
+U 1 1 5F95EB6D
+P 8900 6950
+F 0 "S19" H 8885 7185 50  0000 C CNN
+F 1 "c" H 8885 7094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 9110 6950 50  0001 C CNN
+F 3 "" H 9110 6950 50  0001 C CNN
+	1    8900 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D19
+U 1 1 5F95EB77
+P 8900 7050
+F 0 "D19" H 9050 6750 50  0000 C CNN
+F 1 "D_Schottky" H 8875 7150 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 8900 7050 50  0001 C CNN
+F 3 "~" H 8900 7050 50  0001 C CNN
+	1    8900 7050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9050 6950 9050 7000
+Wire Wire Line
+	9050 7000 8750 7000
+Wire Wire Line
+	8750 7000 8750 7050
+Wire Wire Line
+	9050 6950 9020 6950
+$Comp
+L switches:CherryMX S20
+U 1 1 5F96AB8F
+P 9550 5300
+F 0 "S20" H 9535 5535 50  0000 C CNN
+F 1 "4" H 9535 5444 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 9760 5300 50  0001 C CNN
+F 3 "" H 9760 5300 50  0001 C CNN
+	1    9550 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D20
+U 1 1 5F96B829
+P 9550 5400
+F 0 "D20" H 9700 5100 50  0000 C CNN
+F 1 "D_Schottky" H 9525 5500 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 9550 5400 50  0001 C CNN
+F 3 "~" H 9550 5400 50  0001 C CNN
+	1    9550 5400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9700 5300 9700 5350
+Wire Wire Line
+	9700 5350 9400 5350
+Wire Wire Line
+	9400 5350 9400 5400
+Wire Wire Line
+	9700 5300 9670 5300
+$Comp
+L switches:CherryMX S21
+U 1 1 5F96B837
+P 9550 5850
+F 0 "S21" H 9535 6085 50  0000 C CNN
+F 1 "r" H 9535 5994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 9760 5850 50  0001 C CNN
+F 3 "" H 9760 5850 50  0001 C CNN
+	1    9550 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D21
+U 1 1 5F96B841
+P 9550 5950
+F 0 "D21" H 9700 5650 50  0000 C CNN
+F 1 "D_Schottky" H 9525 6050 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 9550 5950 50  0001 C CNN
+F 3 "~" H 9550 5950 50  0001 C CNN
+	1    9550 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9700 5850 9700 5900
+Wire Wire Line
+	9700 5900 9400 5900
+Wire Wire Line
+	9400 5900 9400 5950
+Wire Wire Line
+	9700 5850 9670 5850
+$Comp
+L switches:CherryMX S22
+U 1 1 5F96B84F
+P 9550 6400
+F 0 "S22" H 9535 6635 50  0000 C CNN
+F 1 "f" H 9535 6544 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 9760 6400 50  0001 C CNN
+F 3 "" H 9760 6400 50  0001 C CNN
+	1    9550 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D22
+U 1 1 5F96B859
+P 9550 6500
+F 0 "D22" H 9700 6200 50  0000 C CNN
+F 1 "D_Schottky" H 9525 6600 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 9550 6500 50  0001 C CNN
+F 3 "~" H 9550 6500 50  0001 C CNN
+	1    9550 6500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9700 6400 9700 6450
+Wire Wire Line
+	9700 6450 9400 6450
+Wire Wire Line
+	9400 6450 9400 6500
+Wire Wire Line
+	9700 6400 9670 6400
+$Comp
+L switches:CherryMX S23
+U 1 1 5F96B867
+P 9550 6950
+F 0 "S23" H 9535 7185 50  0000 C CNN
+F 1 "v" H 9535 7094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 9760 6950 50  0001 C CNN
+F 3 "" H 9760 6950 50  0001 C CNN
+	1    9550 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D23
+U 1 1 5F96B871
+P 9550 7050
+F 0 "D23" H 9700 6750 50  0000 C CNN
+F 1 "D_Schottky" H 9525 7150 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 9550 7050 50  0001 C CNN
+F 3 "~" H 9550 7050 50  0001 C CNN
+	1    9550 7050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9700 6950 9700 7000
+Wire Wire Line
+	9700 7000 9400 7000
+Wire Wire Line
+	9400 7000 9400 7050
+Wire Wire Line
+	9700 6950 9670 6950
+$Comp
+L switches:CherryMX S24
+U 1 1 5F96B897
+P 10200 5300
+F 0 "S24" H 10185 5535 50  0000 C CNN
+F 1 "5" H 10185 5444 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10410 5300 50  0001 C CNN
+F 3 "" H 10410 5300 50  0001 C CNN
+	1    10200 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D24
+U 1 1 5F96B8A1
+P 10200 5400
+F 0 "D24" H 10350 5100 50  0000 C CNN
+F 1 "D_Schottky" H 10175 5500 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 10200 5400 50  0001 C CNN
+F 3 "~" H 10200 5400 50  0001 C CNN
+	1    10200 5400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10350 5300 10350 5350
+Wire Wire Line
+	10350 5350 10050 5350
+Wire Wire Line
+	10050 5350 10050 5400
+Wire Wire Line
+	10350 5300 10320 5300
+$Comp
+L switches:CherryMX S25
+U 1 1 5F96B8AF
+P 10200 5850
+F 0 "S25" H 10185 6085 50  0000 C CNN
+F 1 "t" H 10185 5994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10410 5850 50  0001 C CNN
+F 3 "" H 10410 5850 50  0001 C CNN
+	1    10200 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D25
+U 1 1 5F96B8B9
+P 10200 5950
+F 0 "D25" H 10350 5650 50  0000 C CNN
+F 1 "D_Schottky" H 10175 6050 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 10200 5950 50  0001 C CNN
+F 3 "~" H 10200 5950 50  0001 C CNN
+	1    10200 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10350 5900 10050 5900
+Wire Wire Line
+	10050 5900 10050 5950
+Wire Wire Line
+	10350 5850 10320 5850
+$Comp
+L switches:CherryMX S26
+U 1 1 5F96B8C7
+P 10200 6400
+F 0 "S26" H 10185 6635 50  0000 C CNN
+F 1 "g" H 10185 6544 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10410 6400 50  0001 C CNN
+F 3 "" H 10410 6400 50  0001 C CNN
+	1    10200 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D26
+U 1 1 5F96B8D1
+P 10200 6500
+F 0 "D26" H 10350 6200 50  0000 C CNN
+F 1 "D_Schottky" H 10175 6600 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 10200 6500 50  0001 C CNN
+F 3 "~" H 10200 6500 50  0001 C CNN
+	1    10200 6500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10350 6450 10050 6450
+Wire Wire Line
+	10050 6450 10050 6500
+Wire Wire Line
+	10350 6400 10320 6400
+$Comp
+L switches:CherryMX S27
+U 1 1 5F96B8DF
+P 10200 6950
+F 0 "S27" H 10185 7185 50  0000 C CNN
+F 1 "b" H 10185 7094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10410 6950 50  0001 C CNN
+F 3 "" H 10410 6950 50  0001 C CNN
+	1    10200 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D27
+U 1 1 5F96B8E9
+P 10200 7050
+F 0 "D27" H 10350 6750 50  0000 C CNN
+F 1 "D_Schottky" H 10175 7150 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 10200 7050 50  0001 C CNN
+F 3 "~" H 10200 7050 50  0001 C CNN
+	1    10200 7050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10350 7000 10050 7000
+Wire Wire Line
+	10050 7000 10050 7050
+Wire Wire Line
+	10350 6950 10320 6950
+$Comp
+L switches:CherryMX S28
+U 1 1 5F96B8F7
+P 10200 7500
+F 0 "S28" H 10185 7735 50  0000 C CNN
+F 1 "space" H 10185 7644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 10410 7500 50  0001 C CNN
+F 3 "" H 10410 7500 50  0001 C CNN
+	1    10200 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D28
+U 1 1 5F96B901
+P 10200 7600
+F 0 "D28" H 10350 7300 50  0000 C CNN
+F 1 "D_Schottky" H 10175 7700 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 10200 7600 50  0001 C CNN
+F 3 "~" H 10200 7600 50  0001 C CNN
+	1    10200 7600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10350 7550 10050 7550
+Wire Wire Line
+	10050 7550 10050 7600
+Wire Wire Line
+	10350 7500 10320 7500
+$Comp
+L switches:CherryMX S29
+U 1 1 5F96B90F
+P 10750 5300
+F 0 "S29" H 10735 5535 50  0000 C CNN
+F 1 "6" H 10735 5444 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10960 5300 50  0001 C CNN
+F 3 "" H 10960 5300 50  0001 C CNN
+	1    10750 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D29
+U 1 1 5F96B919
+P 10750 5400
+F 0 "D29" H 10900 5100 50  0000 C CNN
+F 1 "D_Schottky" H 10725 5500 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 10750 5400 50  0001 C CNN
+F 3 "~" H 10750 5400 50  0001 C CNN
+	1    10750 5400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10900 5300 10900 5350
+Wire Wire Line
+	10900 5350 10600 5350
+Wire Wire Line
+	10600 5350 10600 5400
+Wire Wire Line
+	10900 5300 10870 5300
+$Comp
+L switches:CherryMX S30
+U 1 1 5F96B927
+P 10750 5850
+F 0 "S30" H 10735 6085 50  0000 C CNN
+F 1 "y" H 10735 5994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10960 5850 50  0001 C CNN
+F 3 "" H 10960 5850 50  0001 C CNN
+	1    10750 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D30
+U 1 1 5F96B931
+P 10750 5950
+F 0 "D30" H 10900 5650 50  0000 C CNN
+F 1 "D_Schottky" H 10725 6050 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 10750 5950 50  0001 C CNN
+F 3 "~" H 10750 5950 50  0001 C CNN
+	1    10750 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10900 5850 10900 5900
+Wire Wire Line
+	10900 5900 10600 5900
+Wire Wire Line
+	10600 5900 10600 5950
+Wire Wire Line
+	10900 5850 10870 5850
+$Comp
+L switches:CherryMX S31
+U 1 1 5F96B93F
+P 10750 6400
+F 0 "S31" H 10735 6635 50  0000 C CNN
+F 1 "h" H 10735 6544 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10960 6400 50  0001 C CNN
+F 3 "" H 10960 6400 50  0001 C CNN
+	1    10750 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D31
+U 1 1 5F96B949
+P 10750 6500
+F 0 "D31" H 10900 6200 50  0000 C CNN
+F 1 "D_Schottky" H 10725 6600 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 10750 6500 50  0001 C CNN
+F 3 "~" H 10750 6500 50  0001 C CNN
+	1    10750 6500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10900 6400 10900 6450
+Wire Wire Line
+	10900 6450 10600 6450
+Wire Wire Line
+	10600 6450 10600 6500
+Wire Wire Line
+	10900 6400 10870 6400
+$Comp
+L switches:CherryMX S32
+U 1 1 5F96B957
+P 10750 6950
+F 0 "S32" H 10735 7185 50  0000 C CNN
+F 1 "n" H 10735 7094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 10960 6950 50  0001 C CNN
+F 3 "" H 10960 6950 50  0001 C CNN
+	1    10750 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D32
+U 1 1 5F96B961
+P 10750 7050
+F 0 "D32" H 10900 6750 50  0000 C CNN
+F 1 "D_Schottky" H 10725 7150 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 10750 7050 50  0001 C CNN
+F 3 "~" H 10750 7050 50  0001 C CNN
+	1    10750 7050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10900 6950 10900 7000
+Wire Wire Line
+	10900 7000 10600 7000
+Wire Wire Line
+	10600 7000 10600 7050
+Wire Wire Line
+	10900 6950 10870 6950
+$Comp
+L switches:CherryMX S33
+U 1 1 5F96B987
+P 11450 5300
+F 0 "S33" H 11435 5535 50  0000 C CNN
+F 1 "7" H 11435 5444 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 11660 5300 50  0001 C CNN
+F 3 "" H 11660 5300 50  0001 C CNN
+	1    11450 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D33
+U 1 1 5F96B991
+P 11450 5400
+F 0 "D33" H 11600 5100 50  0000 C CNN
+F 1 "D_Schottky" H 11425 5500 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 11450 5400 50  0001 C CNN
+F 3 "~" H 11450 5400 50  0001 C CNN
+	1    11450 5400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	11600 5300 11600 5350
+Wire Wire Line
+	11600 5350 11300 5350
+Wire Wire Line
+	11300 5350 11300 5400
+Wire Wire Line
+	11600 5300 11570 5300
+$Comp
+L switches:CherryMX S34
+U 1 1 5F96B99F
+P 11450 5850
+F 0 "S34" H 11435 6085 50  0000 C CNN
+F 1 "u" H 11435 5994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 11660 5850 50  0001 C CNN
+F 3 "" H 11660 5850 50  0001 C CNN
+	1    11450 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D34
+U 1 1 5F96B9A9
+P 11450 5950
+F 0 "D34" H 11600 5650 50  0000 C CNN
+F 1 "D_Schottky" H 11425 6050 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 11450 5950 50  0001 C CNN
+F 3 "~" H 11450 5950 50  0001 C CNN
+	1    11450 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	11600 5850 11600 5900
+Wire Wire Line
+	11600 5900 11300 5900
+Wire Wire Line
+	11300 5900 11300 5950
+Wire Wire Line
+	11600 5850 11570 5850
+$Comp
+L switches:CherryMX S35
+U 1 1 5F96B9B7
+P 11450 6400
+F 0 "S35" H 11435 6635 50  0000 C CNN
+F 1 "j" H 11435 6544 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 11660 6400 50  0001 C CNN
+F 3 "" H 11660 6400 50  0001 C CNN
+	1    11450 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D35
+U 1 1 5F96B9C1
+P 11450 6500
+F 0 "D35" H 11600 6200 50  0000 C CNN
+F 1 "D_Schottky" H 11425 6600 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 11450 6500 50  0001 C CNN
+F 3 "~" H 11450 6500 50  0001 C CNN
+	1    11450 6500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	11600 6400 11600 6450
+Wire Wire Line
+	11600 6450 11300 6450
+Wire Wire Line
+	11300 6450 11300 6500
+Wire Wire Line
+	11600 6400 11570 6400
+$Comp
+L switches:CherryMX S36
+U 1 1 5F96B9CF
+P 11450 6950
+F 0 "S36" H 11435 7185 50  0000 C CNN
+F 1 "m" H 11435 7094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 11660 6950 50  0001 C CNN
+F 3 "" H 11660 6950 50  0001 C CNN
+	1    11450 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D36
+U 1 1 5F96B9D9
+P 11450 7050
+F 0 "D36" H 11600 6750 50  0000 C CNN
+F 1 "D_Schottky" H 11425 7150 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 11450 7050 50  0001 C CNN
+F 3 "~" H 11450 7050 50  0001 C CNN
+	1    11450 7050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	11600 6950 11600 7000
+Wire Wire Line
+	11600 7000 11300 7000
+Wire Wire Line
+	11300 7000 11300 7050
+Wire Wire Line
+	11600 6950 11570 6950
+$Comp
+L switches:CherryMX S37
+U 1 1 5F98A321
+P 12200 5300
+F 0 "S37" H 12185 5535 50  0000 C CNN
+F 1 "8" H 12185 5444 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 12410 5300 50  0001 C CNN
+F 3 "" H 12410 5300 50  0001 C CNN
+	1    12200 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D37
+U 1 1 5F98B2DB
+P 12200 5400
+F 0 "D37" H 12350 5100 50  0000 C CNN
+F 1 "D_Schottky" H 12175 5500 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 12200 5400 50  0001 C CNN
+F 3 "~" H 12200 5400 50  0001 C CNN
+	1    12200 5400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	12350 5300 12350 5350
+Wire Wire Line
+	12350 5350 12050 5350
+Wire Wire Line
+	12050 5350 12050 5400
+Wire Wire Line
+	12350 5300 12320 5300
+$Comp
+L switches:CherryMX S38
+U 1 1 5F98B2E9
+P 12200 5850
+F 0 "S38" H 12185 6085 50  0000 C CNN
+F 1 "i" H 12185 5994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 12410 5850 50  0001 C CNN
+F 3 "" H 12410 5850 50  0001 C CNN
+	1    12200 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D38
+U 1 1 5F98B2F3
+P 12200 5950
+F 0 "D38" H 12350 5650 50  0000 C CNN
+F 1 "D_Schottky" H 12175 6050 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 12200 5950 50  0001 C CNN
+F 3 "~" H 12200 5950 50  0001 C CNN
+	1    12200 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	12350 5850 12350 5900
+Wire Wire Line
+	12350 5900 12050 5900
+Wire Wire Line
+	12050 5900 12050 5950
+Wire Wire Line
+	12350 5850 12320 5850
+$Comp
+L switches:CherryMX S39
+U 1 1 5F98B301
+P 12200 6400
+F 0 "S39" H 12185 6635 50  0000 C CNN
+F 1 "k" H 12185 6544 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 12410 6400 50  0001 C CNN
+F 3 "" H 12410 6400 50  0001 C CNN
+	1    12200 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D39
+U 1 1 5F98B30B
+P 12200 6500
+F 0 "D39" H 12350 6200 50  0000 C CNN
+F 1 "D_Schottky" H 12175 6600 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 12200 6500 50  0001 C CNN
+F 3 "~" H 12200 6500 50  0001 C CNN
+	1    12200 6500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	12350 6400 12350 6450
+Wire Wire Line
+	12350 6450 12050 6450
+Wire Wire Line
+	12050 6450 12050 6500
+Wire Wire Line
+	12350 6400 12320 6400
+$Comp
+L switches:CherryMX S40
+U 1 1 5F98B319
+P 12200 6950
+F 0 "S40" H 12185 7185 50  0000 C CNN
+F 1 "," H 12185 7094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 12410 6950 50  0001 C CNN
+F 3 "" H 12410 6950 50  0001 C CNN
+	1    12200 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D40
+U 1 1 5F98B323
+P 12200 7050
+F 0 "D40" H 12350 6750 50  0000 C CNN
+F 1 "D_Schottky" H 12175 7150 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 12200 7050 50  0001 C CNN
+F 3 "~" H 12200 7050 50  0001 C CNN
+	1    12200 7050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	12350 6950 12350 7000
+Wire Wire Line
+	12350 7000 12050 7000
+Wire Wire Line
+	12050 7000 12050 7050
+Wire Wire Line
+	12350 6950 12320 6950
+$Comp
+L switches:CherryMX S41
+U 1 1 5F98B331
+P 12200 7500
+F 0 "S41" H 12185 7735 50  0000 C CNN
+F 1 "ralt" H 12185 7644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 12410 7500 50  0001 C CNN
+F 3 "" H 12410 7500 50  0001 C CNN
+	1    12200 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D41
+U 1 1 5F98B33B
+P 12200 7600
+F 0 "D41" H 12350 7300 50  0000 C CNN
+F 1 "D_Schottky" H 12175 7700 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 12200 7600 50  0001 C CNN
+F 3 "~" H 12200 7600 50  0001 C CNN
+	1    12200 7600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	12350 7500 12350 7550
+Wire Wire Line
+	12350 7550 12050 7550
+Wire Wire Line
+	12050 7550 12050 7600
+Wire Wire Line
+	12350 7500 12320 7500
+$Comp
+L switches:CherryMX S42
+U 1 1 5F98B349
+P 13000 5300
+F 0 "S42" H 12985 5535 50  0000 C CNN
+F 1 "9" H 12985 5444 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 13210 5300 50  0001 C CNN
+F 3 "" H 13210 5300 50  0001 C CNN
+	1    13000 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D42
+U 1 1 5F98B353
+P 13000 5400
+F 0 "D42" H 13150 5100 50  0000 C CNN
+F 1 "D_Schottky" H 12975 5500 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 13000 5400 50  0001 C CNN
+F 3 "~" H 13000 5400 50  0001 C CNN
+	1    13000 5400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	13150 5300 13150 5350
+Wire Wire Line
+	13150 5350 12850 5350
+Wire Wire Line
+	12850 5350 12850 5400
+Wire Wire Line
+	13150 5300 13120 5300
+$Comp
+L switches:CherryMX S43
+U 1 1 5F98B361
+P 13000 5850
+F 0 "S43" H 12985 6085 50  0000 C CNN
+F 1 "o" H 12985 5994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 13210 5850 50  0001 C CNN
+F 3 "" H 13210 5850 50  0001 C CNN
+	1    13000 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D43
+U 1 1 5F98B36B
+P 13000 5950
+F 0 "D43" H 13150 5650 50  0000 C CNN
+F 1 "D_Schottky" H 12975 6050 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 13000 5950 50  0001 C CNN
+F 3 "~" H 13000 5950 50  0001 C CNN
+	1    13000 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	13150 5850 13150 5900
+Wire Wire Line
+	13150 5900 12850 5900
+Wire Wire Line
+	12850 5900 12850 5950
+Wire Wire Line
+	13150 5850 13120 5850
+$Comp
+L switches:CherryMX S44
+U 1 1 5F98B379
+P 13000 6400
+F 0 "S44" H 12985 6635 50  0000 C CNN
+F 1 "l" H 12985 6544 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 13210 6400 50  0001 C CNN
+F 3 "" H 13210 6400 50  0001 C CNN
+	1    13000 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D44
+U 1 1 5F98B383
+P 13000 6500
+F 0 "D44" H 13150 6200 50  0000 C CNN
+F 1 "D_Schottky" H 12975 6600 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 13000 6500 50  0001 C CNN
+F 3 "~" H 13000 6500 50  0001 C CNN
+	1    13000 6500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	13150 6400 13150 6450
+Wire Wire Line
+	13150 6450 12850 6450
+Wire Wire Line
+	12850 6450 12850 6500
+Wire Wire Line
+	13150 6400 13120 6400
+$Comp
+L switches:CherryMX S45
+U 1 1 5F98B3A9
+P 13000 7500
+F 0 "S45" H 12985 7735 50  0000 C CNN
+F 1 "fn" H 12985 7644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_Plate" H 13210 7500 50  0001 C CNN
+F 3 "" H 13210 7500 50  0001 C CNN
+	1    13000 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D45
+U 1 1 5F98B3B3
+P 13000 7600
+F 0 "D45" H 13150 7300 50  0000 C CNN
+F 1 "D_Schottky" H 12975 7700 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 13000 7600 50  0001 C CNN
+F 3 "~" H 13000 7600 50  0001 C CNN
+	1    13000 7600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	13150 7500 13150 7550
+Wire Wire Line
+	13150 7550 12850 7550
+Wire Wire Line
+	12850 7550 12850 7600
+Wire Wire Line
+	13150 7500 13120 7500
+$Comp
+L switches:CherryMX S46
+U 1 1 5F98B3C1
+P 13650 5300
+F 0 "S46" H 13635 5535 50  0000 C CNN
+F 1 "0" H 13635 5444 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 13860 5300 50  0001 C CNN
+F 3 "" H 13860 5300 50  0001 C CNN
+	1    13650 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D46
+U 1 1 5F98B3CB
+P 13650 5400
+F 0 "D46" H 13800 5100 50  0000 C CNN
+F 1 "D_Schottky" H 13625 5500 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 13650 5400 50  0001 C CNN
+F 3 "~" H 13650 5400 50  0001 C CNN
+	1    13650 5400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	13800 5300 13800 5350
+Wire Wire Line
+	13800 5350 13500 5350
+Wire Wire Line
+	13500 5350 13500 5400
+Wire Wire Line
+	13800 5300 13770 5300
+$Comp
+L switches:CherryMX S47
+U 1 1 5F98B3D9
+P 13650 5850
+F 0 "S47" H 13635 6085 50  0000 C CNN
+F 1 "p" H 13635 5994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 13860 5850 50  0001 C CNN
+F 3 "" H 13860 5850 50  0001 C CNN
+	1    13650 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D47
+U 1 1 5F98B3E3
+P 13650 5950
+F 0 "D47" H 13800 5650 50  0000 C CNN
+F 1 "D_Schottky" H 13625 6050 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 13650 5950 50  0001 C CNN
+F 3 "~" H 13650 5950 50  0001 C CNN
+	1    13650 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	13800 5850 13800 5900
+Wire Wire Line
+	13800 5900 13500 5900
+Wire Wire Line
+	13500 5900 13500 5950
+Wire Wire Line
+	13800 5850 13770 5850
+$Comp
+L switches:CherryMX S48
+U 1 1 5F98B3F1
+P 13650 6400
+F 0 "S48" H 13635 6635 50  0000 C CNN
+F 1 ";" H 13635 6544 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 13860 6400 50  0001 C CNN
+F 3 "" H 13860 6400 50  0001 C CNN
+	1    13650 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D48
+U 1 1 5F98B3FB
+P 13650 6500
+F 0 "D48" H 13800 6200 50  0000 C CNN
+F 1 "D_Schottky" H 13625 6600 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 13650 6500 50  0001 C CNN
+F 3 "~" H 13650 6500 50  0001 C CNN
+	1    13650 6500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	13800 6400 13800 6450
+Wire Wire Line
+	13800 6450 13500 6450
+Wire Wire Line
+	13500 6450 13500 6500
+Wire Wire Line
+	13800 6400 13770 6400
+$Comp
+L switches:CherryMX S49
+U 1 1 5F98B409
+P 13700 6950
+F 0 "S49" H 13685 7185 50  0000 C CNN
+F 1 "/" H 13685 7094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 13910 6950 50  0001 C CNN
+F 3 "" H 13910 6950 50  0001 C CNN
+	1    13700 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D49
+U 1 1 5F98B413
+P 13700 7050
+F 0 "D49" H 13850 6750 50  0000 C CNN
+F 1 "D_Schottky" H 13675 7150 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 13700 7050 50  0001 C CNN
+F 3 "~" H 13700 7050 50  0001 C CNN
+	1    13700 7050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	13850 6950 13850 7000
+Wire Wire Line
+	13850 7000 13550 7000
+Wire Wire Line
+	13550 7000 13550 7050
+Wire Wire Line
+	13850 6950 13820 6950
+$Comp
+L switches:CherryMX S50
+U 1 1 5F98B421
+P 13700 7500
+F 0 "S50" H 13685 7735 50  0000 C CNN
+F 1 "mod" H 13685 7644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 13910 7500 50  0001 C CNN
+F 3 "" H 13910 7500 50  0001 C CNN
+	1    13700 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D50
+U 1 1 5F98B42B
+P 13700 7600
+F 0 "D50" H 13850 7300 50  0000 C CNN
+F 1 "D_Schottky" H 13675 7700 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 13700 7600 50  0001 C CNN
+F 3 "~" H 13700 7600 50  0001 C CNN
+	1    13700 7600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	13850 7500 13850 7550
+Wire Wire Line
+	13850 7550 13550 7550
+Wire Wire Line
+	13550 7550 13550 7600
+Wire Wire Line
+	13850 7500 13820 7500
+$Comp
+L switches:CherryMX S51
+U 1 1 5F98B439
+P 14450 5300
+F 0 "S51" H 14435 5535 50  0000 C CNN
+F 1 "esc" H 14435 5444 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 14660 5300 50  0001 C CNN
+F 3 "" H 14660 5300 50  0001 C CNN
+	1    14450 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D51
+U 1 1 5F98B443
+P 14450 5400
+F 0 "D51" H 14600 5100 50  0000 C CNN
+F 1 "D_Schottky" H 14425 5500 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 14450 5400 50  0001 C CNN
+F 3 "~" H 14450 5400 50  0001 C CNN
+	1    14450 5400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	14600 5300 14600 5350
+Wire Wire Line
+	14600 5350 14300 5350
+Wire Wire Line
+	14300 5350 14300 5400
+Wire Wire Line
+	14600 5300 14570 5300
+$Comp
+L switches:CherryMX S52
+U 1 1 5F98B451
+P 14450 5850
+F 0 "S52" H 14435 6085 50  0000 C CNN
+F 1 "[" H 14435 5994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 14660 5850 50  0001 C CNN
+F 3 "" H 14660 5850 50  0001 C CNN
+	1    14450 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D52
+U 1 1 5F98B45B
+P 14450 5950
+F 0 "D52" H 14600 5650 50  0000 C CNN
+F 1 "D_Schottky" H 14425 6050 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 14450 5950 50  0001 C CNN
+F 3 "~" H 14450 5950 50  0001 C CNN
+	1    14450 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	14600 5850 14600 5900
+Wire Wire Line
+	14600 5900 14300 5900
+Wire Wire Line
+	14300 5900 14300 5950
+Wire Wire Line
+	14600 5850 14570 5850
+$Comp
+L switches:CherryMX S53
+U 1 1 5F98B4B1
+P 15200 5300
+F 0 "S53" H 15185 5535 50  0000 C CNN
+F 1 "bkspc_2.0" H 15185 5444 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Plate" H 15410 5300 50  0001 C CNN
+F 3 "" H 15410 5300 50  0001 C CNN
+	1    15200 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D53
+U 1 1 5F98B4BB
+P 15200 5400
+F 0 "D53" H 15350 5100 50  0000 C CNN
+F 1 "D_Schottky" H 15175 5500 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 15200 5400 50  0001 C CNN
+F 3 "~" H 15200 5400 50  0001 C CNN
+	1    15200 5400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	15350 5300 15350 5350
+Wire Wire Line
+	15350 5350 15050 5350
+Wire Wire Line
+	15050 5350 15050 5400
+Wire Wire Line
+	15350 5300 15320 5300
+$Comp
+L switches:CherryMX S54
+U 1 1 5F98B4C9
+P 15200 5850
+F 0 "S54" H 15185 6085 50  0000 C CNN
+F 1 "]" H 15185 5994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_Plate" H 15410 5850 50  0001 C CNN
+F 3 "" H 15410 5850 50  0001 C CNN
+	1    15200 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D54
+U 1 1 5F98B4D3
+P 15200 5950
+F 0 "D54" H 15350 5650 50  0000 C CNN
+F 1 "D_Schottky" H 15175 6050 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 15200 5950 50  0001 C CNN
+F 3 "~" H 15200 5950 50  0001 C CNN
+	1    15200 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	15350 5850 15350 5900
+Wire Wire Line
+	15350 5900 15050 5900
+Wire Wire Line
+	15050 5900 15050 5950
+Wire Wire Line
+	15350 5850 15320 5850
+$Comp
+L switches:CherryMX S55
+U 1 1 5F98B4E1
+P 15200 6400
+F 0 "S55" H 15185 6635 50  0000 C CNN
+F 1 "enter" H 15185 6544 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_Plate" H 15410 6400 50  0001 C CNN
+F 3 "" H 15410 6400 50  0001 C CNN
+	1    15200 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D55
+U 1 1 5F98B4EB
+P 15200 6500
+F 0 "D55" H 15350 6200 50  0000 C CNN
+F 1 "D_Schottky" H 15175 6600 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 15200 6500 50  0001 C CNN
+F 3 "~" H 15200 6500 50  0001 C CNN
+	1    15200 6500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	15350 6400 15350 6450
+Wire Wire Line
+	15350 6450 15050 6450
+Wire Wire Line
+	15050 6450 15050 6500
+$Comp
+L switches:CherryMX S56
+U 1 1 5F98B4F9
+P 15200 6950
+F 0 "S56" H 15185 7185 50  0000 C CNN
+F 1 "arrowmod1.0" H 15185 7094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 15410 6950 50  0001 C CNN
+F 3 "" H 15410 6950 50  0001 C CNN
+	1    15200 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D56
+U 1 1 5F98B503
+P 15200 7050
+F 0 "D56" H 15350 6750 50  0000 C CNN
+F 1 "D_Schottky" H 15175 7150 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 15200 7050 50  0001 C CNN
+F 3 "~" H 15200 7050 50  0001 C CNN
+	1    15200 7050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	15350 6950 15350 7000
+Wire Wire Line
+	15350 7000 15050 7000
+Wire Wire Line
+	15050 7000 15050 7050
+Wire Wire Line
+	15350 6950 15320 6950
+$Comp
+L switches:CherryMX S57
+U 1 1 5F98B511
+P 14500 7500
+F 0 "S57" H 14485 7735 50  0000 C CNN
+F 1 "mod2" H 14485 7644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_Plate" H 14710 7500 50  0001 C CNN
+F 3 "" H 14710 7500 50  0001 C CNN
+	1    14500 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D57
+U 1 1 5F98B51B
+P 14500 7600
+F 0 "D57" H 14650 7300 50  0000 C CNN
+F 1 "D_Schottky" H 14475 7700 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 14500 7600 50  0001 C CNN
+F 3 "~" H 14500 7600 50  0001 C CNN
+	1    14500 7600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	14650 7500 14650 7550
+Wire Wire Line
+	14650 7550 14350 7550
+Wire Wire Line
+	14350 7550 14350 7600
+Wire Wire Line
+	14650 7500 14620 7500
+$Comp
+L switches:CherryMX S58
+U 1 1 5F98B529
+P 16650 5300
+F 0 "S58" H 16635 5535 50  0000 C CNN
+F 1 "prog0" H 16635 5444 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 16860 5300 50  0001 C CNN
+F 3 "" H 16860 5300 50  0001 C CNN
+	1    16650 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D58
+U 1 1 5F98B533
+P 16650 5400
+F 0 "D58" H 16800 5100 50  0000 C CNN
+F 1 "D_Schottky" H 16625 5500 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 16650 5400 50  0001 C CNN
+F 3 "~" H 16650 5400 50  0001 C CNN
+	1    16650 5400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	16800 5300 16800 5350
+Wire Wire Line
+	16800 5350 16500 5350
+Wire Wire Line
+	16500 5350 16500 5400
+Wire Wire Line
+	16800 5300 16770 5300
+$Comp
+L switches:CherryMX S59
+U 1 1 5F98B541
+P 16650 5850
+F 0 "S59" H 16635 6085 50  0000 C CNN
+F 1 "prog1" H 16635 5994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 16860 5850 50  0001 C CNN
+F 3 "" H 16860 5850 50  0001 C CNN
+	1    16650 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D59
+U 1 1 5F98B54B
+P 16650 5950
+F 0 "D59" H 16800 5650 50  0000 C CNN
+F 1 "D_Schottky" H 16625 6050 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 16650 5950 50  0001 C CNN
+F 3 "~" H 16650 5950 50  0001 C CNN
+	1    16650 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	16800 5850 16800 5900
+Wire Wire Line
+	16800 5900 16500 5900
+Wire Wire Line
+	16500 5900 16500 5950
+Wire Wire Line
+	16800 5850 16770 5850
+$Comp
+L switches:CherryMX S60
+U 1 1 5F98B559
+P 16650 6400
+F 0 "S60" H 16635 6635 50  0000 C CNN
+F 1 "prog3" H 16635 6544 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 16860 6400 50  0001 C CNN
+F 3 "" H 16860 6400 50  0001 C CNN
+	1    16650 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D60
+U 1 1 5F98B563
+P 16650 6500
+F 0 "D60" H 16800 6200 50  0000 C CNN
+F 1 "D_Schottky" H 16625 6600 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 16650 6500 50  0001 C CNN
+F 3 "~" H 16650 6500 50  0001 C CNN
+	1    16650 6500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	16800 6400 16800 6450
+Wire Wire Line
+	16800 6450 16500 6450
+Wire Wire Line
+	16500 6450 16500 6500
+Wire Wire Line
+	16800 6400 16770 6400
+$Comp
+L switches:CherryMX S61
+U 1 1 5F98B571
+P 16650 6950
+F 0 "S61" H 16635 7185 50  0000 C CNN
+F 1 "prog5" H 16635 7094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 16860 6950 50  0001 C CNN
+F 3 "" H 16860 6950 50  0001 C CNN
+	1    16650 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D61
+U 1 1 5F98B57B
+P 16650 7050
+F 0 "D61" H 16800 6750 50  0000 C CNN
+F 1 "D_Schottky" H 16625 7150 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 16650 7050 50  0001 C CNN
+F 3 "~" H 16650 7050 50  0001 C CNN
+	1    16650 7050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	16800 6950 16800 7000
+Wire Wire Line
+	16800 7000 16500 7000
+Wire Wire Line
+	16500 7000 16500 7050
+Wire Wire Line
+	16800 6950 16770 6950
+$Comp
+L switches:CherryMX S62
+U 1 1 5F98B589
+P 16650 7500
+F 0 "S62" H 16635 7735 50  0000 C CNN
+F 1 "prog7" H 16635 7644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 16860 7500 50  0001 C CNN
+F 3 "" H 16860 7500 50  0001 C CNN
+	1    16650 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D62
+U 1 1 5F98B593
+P 16650 7600
+F 0 "D62" H 16800 7300 50  0000 C CNN
+F 1 "D_Schottky" H 16625 7700 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 16650 7600 50  0001 C CNN
+F 3 "~" H 16650 7600 50  0001 C CNN
+	1    16650 7600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	16800 7500 16800 7550
+Wire Wire Line
+	16800 7550 16500 7550
+Wire Wire Line
+	16500 7550 16500 7600
+Wire Wire Line
+	16800 7500 16770 7500
+$Comp
+L switches:CherryMX S64
+U 1 1 5F98B5B9
+P 17350 5850
+F 0 "S64" H 17335 6085 50  0000 C CNN
+F 1 "prog2" H 17335 5994 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 17560 5850 50  0001 C CNN
+F 3 "" H 17560 5850 50  0001 C CNN
+	1    17350 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D64
+U 1 1 5F98B5C3
+P 17350 5950
+F 0 "D64" H 17500 5650 50  0000 C CNN
+F 1 "D_Schottky" H 17325 6050 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 17350 5950 50  0001 C CNN
+F 3 "~" H 17350 5950 50  0001 C CNN
+	1    17350 5950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	17500 5850 17500 5900
+Wire Wire Line
+	17500 5900 17200 5900
+Wire Wire Line
+	17200 5900 17200 5950
+Wire Wire Line
+	17500 5850 17470 5850
+$Comp
+L switches:CherryMX S65
+U 1 1 5F98B5D1
+P 17350 6400
+F 0 "S65" H 17335 6635 50  0000 C CNN
+F 1 "prog4" H 17335 6544 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 17560 6400 50  0001 C CNN
+F 3 "" H 17560 6400 50  0001 C CNN
+	1    17350 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D65
+U 1 1 5F98B5DB
+P 17350 6500
+F 0 "D65" H 17500 6200 50  0000 C CNN
+F 1 "D_Schottky" H 17325 6600 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 17350 6500 50  0001 C CNN
+F 3 "~" H 17350 6500 50  0001 C CNN
+	1    17350 6500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	17500 6400 17500 6450
+Wire Wire Line
+	17500 6450 17200 6450
+Wire Wire Line
+	17200 6450 17200 6500
+Wire Wire Line
+	17500 6400 17470 6400
+$Comp
+L switches:CherryMX S66
+U 1 1 5F98B5E9
+P 17350 6950
+F 0 "S66" H 17335 7185 50  0000 C CNN
+F 1 "pro6" H 17335 7094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 17560 6950 50  0001 C CNN
+F 3 "" H 17560 6950 50  0001 C CNN
+	1    17350 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D66
+U 1 1 5F98B5F3
+P 17350 7050
+F 0 "D66" H 17500 6750 50  0000 C CNN
+F 1 "D_Schottky" H 17325 7150 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 17350 7050 50  0001 C CNN
+F 3 "~" H 17350 7050 50  0001 C CNN
+	1    17350 7050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	17500 6950 17500 7000
+Wire Wire Line
+	17500 7000 17200 7000
+Wire Wire Line
+	17200 7000 17200 7050
+Wire Wire Line
+	17500 6950 17470 6950
+$Comp
+L switches:CherryMX S67
+U 1 1 5F98B601
+P 17350 7500
+F 0 "S67" H 17335 7735 50  0000 C CNN
+F 1 "prog8" H 17335 7644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 17560 7500 50  0001 C CNN
+F 3 "" H 17560 7500 50  0001 C CNN
+	1    17350 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D67
+U 1 1 5F98B60B
+P 17350 7600
+F 0 "D67" H 17500 7300 50  0000 C CNN
+F 1 "D_Schottky" H 17325 7700 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 17350 7600 50  0001 C CNN
+F 3 "~" H 17350 7600 50  0001 C CNN
+	1    17350 7600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	17500 7500 17500 7550
+Wire Wire Line
+	17500 7550 17200 7550
+Wire Wire Line
+	17200 7550 17200 7600
+Wire Wire Line
+	17500 7500 17470 7500
+Text HLabel 6200 5100 0    50   Input ~ 0
+row0
+Text HLabel 6200 5600 0    50   Input ~ 0
+row1
+Text HLabel 6200 6150 0    50   Input ~ 0
+row2
+Text HLabel 6200 6700 0    50   Input ~ 0
+row3
+Text HLabel 6250 7300 0    50   Input ~ 0
+row4
+Text HLabel 7200 8000 3    50   Input ~ 0
+col0
+Text HLabel 7850 8000 3    50   Input ~ 0
+col1
+Text HLabel 9200 8000 3    50   Input ~ 0
+col3
+Text HLabel 8500 8000 3    50   Input ~ 0
+col2
+Text HLabel 9850 8000 3    50   Input ~ 0
+col4
+Text HLabel 10400 8000 3    50   Input ~ 0
+col5
+Text HLabel 11050 8000 3    50   Input ~ 0
+col6
+Text HLabel 11750 8050 3    50   Input ~ 0
+col7
+Text HLabel 12550 7950 3    50   Input ~ 0
+col8
+Text HLabel 13300 8000 3    50   Input ~ 0
+col9
+Text HLabel 14000 8000 3    50   Input ~ 0
+col10
+Text HLabel 14800 8050 3    50   Input ~ 0
+col11
+Text HLabel 15500 8050 3    50   Input ~ 0
+col12
+Text HLabel 17000 8000 3    50   Input ~ 0
+col13
+Text HLabel 17700 8000 3    50   Input ~ 0
+col14
+Wire Wire Line
+	6200 5100 6800 5100
+Wire Wire Line
+	6200 5600 6700 5600
+Wire Wire Line
+	17200 5600 17200 5850
+Wire Wire Line
+	6200 6150 6700 6150
+Wire Wire Line
+	17200 6150 17200 6400
+Wire Wire Line
+	6200 6700 6700 6700
+Wire Wire Line
+	17200 6700 17200 6950
+Wire Wire Line
+	6250 7300 7400 7300
+Wire Wire Line
+	17200 7300 17200 7500
+Wire Wire Line
+	6800 5300 6800 5100
+Connection ~ 6800 5100
+Wire Wire Line
+	7450 5300 7450 5100
+Wire Wire Line
+	6800 5100 7450 5100
+Connection ~ 7450 5100
+Wire Wire Line
+	7450 5100 8100 5100
+Wire Wire Line
+	8100 5300 8100 5100
+Connection ~ 8100 5100
+Wire Wire Line
+	8100 5100 8750 5100
+Wire Wire Line
+	8750 5300 8750 5100
+Connection ~ 8750 5100
+Wire Wire Line
+	8750 5100 9400 5100
+Wire Wire Line
+	9400 5300 9400 5100
+Connection ~ 9400 5100
+Wire Wire Line
+	9400 5100 10050 5100
+Wire Wire Line
+	10050 5300 10050 5100
+Connection ~ 10050 5100
+Wire Wire Line
+	10050 5100 10600 5100
+Wire Wire Line
+	10600 5300 10600 5100
+Connection ~ 10600 5100
+Wire Wire Line
+	10600 5100 11300 5100
+Wire Wire Line
+	11300 5300 11300 5100
+Connection ~ 11300 5100
+Wire Wire Line
+	11300 5100 12050 5100
+Wire Wire Line
+	12050 5300 12050 5100
+Connection ~ 12050 5100
+Wire Wire Line
+	12050 5100 12850 5100
+Wire Wire Line
+	12850 5300 12850 5100
+Connection ~ 12850 5100
+Wire Wire Line
+	12850 5100 13500 5100
+Wire Wire Line
+	13500 5300 13500 5100
+Connection ~ 13500 5100
+Wire Wire Line
+	13500 5100 14300 5100
+Wire Wire Line
+	14300 5300 14300 5100
+Connection ~ 14300 5100
+Wire Wire Line
+	14300 5100 15050 5100
+Wire Wire Line
+	15050 5300 15050 5100
+Connection ~ 15050 5100
+Wire Wire Line
+	15050 5100 16500 5100
+Wire Wire Line
+	16500 5300 16500 5100
+Wire Wire Line
+	7100 5400 7200 5400
+Wire Wire Line
+	7200 5400 7200 5950
+Wire Wire Line
+	7750 5400 7850 5400
+Wire Wire Line
+	7850 5400 7850 7050
+Wire Wire Line
+	8400 5400 8500 5400
+Wire Wire Line
+	8500 5400 8500 5950
+Wire Wire Line
+	9050 5400 9200 5400
+Wire Wire Line
+	9200 5400 9200 5950
+Wire Wire Line
+	9700 5400 9850 5400
+Wire Wire Line
+	9850 5400 9850 5950
+Wire Wire Line
+	10350 7500 10350 7550
+Wire Wire Line
+	10350 6950 10350 7000
+Wire Wire Line
+	10350 6400 10350 6450
+Wire Wire Line
+	10350 5850 10350 5900
+Wire Wire Line
+	10350 5400 10400 5400
+Wire Wire Line
+	10400 5400 10400 6500
+Wire Wire Line
+	10900 5400 11050 5400
+Wire Wire Line
+	11050 5400 11050 5950
+Wire Wire Line
+	11600 5400 11750 5400
+Wire Wire Line
+	11750 5400 11750 5950
+Wire Wire Line
+	12350 5400 12550 5400
+Wire Wire Line
+	12550 5400 12550 5950
+Wire Wire Line
+	13150 5400 13300 5400
+Wire Wire Line
+	13300 5400 13300 5950
+Wire Wire Line
+	13800 5400 14000 5400
+Wire Wire Line
+	14000 5400 14000 5950
+Wire Wire Line
+	14600 5400 14800 5400
+Wire Wire Line
+	14800 5400 14800 5950
+Wire Wire Line
+	15350 5400 15500 5400
+Wire Wire Line
+	16800 5400 17000 5400
+Wire Wire Line
+	17000 5400 17000 5950
+Wire Wire Line
+	7100 5950 7200 5950
+Connection ~ 7200 5950
+Wire Wire Line
+	7200 5950 7200 6500
+Wire Wire Line
+	7100 6500 7200 6500
+Connection ~ 7200 6500
+Wire Wire Line
+	7200 6500 7200 7050
+Wire Wire Line
+	7100 7050 7200 7050
+Connection ~ 7200 7050
+Wire Wire Line
+	7200 7050 7200 7600
+Wire Wire Line
+	7100 7600 7200 7600
+Connection ~ 7200 7600
+Wire Wire Line
+	7200 7600 7200 8000
+Wire Wire Line
+	6800 6950 6700 6950
+Wire Wire Line
+	6700 6950 6700 6700
+Connection ~ 6700 6700
+Wire Wire Line
+	6700 6700 7400 6700
+Wire Wire Line
+	6700 6150 6700 6400
+Wire Wire Line
+	6700 6400 6800 6400
+Connection ~ 6700 6150
+Wire Wire Line
+	6700 6150 7400 6150
+Wire Wire Line
+	6700 5600 6700 5850
+Wire Wire Line
+	6700 5850 6800 5850
+Connection ~ 6700 5600
+Wire Wire Line
+	6700 5600 7400 5600
+Wire Wire Line
+	7400 5600 7400 5850
+Wire Wire Line
+	7400 5850 7450 5850
+Connection ~ 7400 5600
+Wire Wire Line
+	7400 5600 8050 5600
+Wire Wire Line
+	7400 6150 7400 6400
+Wire Wire Line
+	7400 6400 7450 6400
+Connection ~ 7400 6150
+Wire Wire Line
+	7400 6150 8050 6150
+Wire Wire Line
+	7400 6700 7400 6950
+Wire Wire Line
+	7400 6950 7450 6950
+Connection ~ 7400 6700
+Wire Wire Line
+	7400 6700 8050 6700
+Wire Wire Line
+	7750 7050 7850 7050
+Connection ~ 7850 7050
+Wire Wire Line
+	7850 7050 7850 7600
+Wire Wire Line
+	7400 7300 7400 7500
+Wire Wire Line
+	7400 7500 7450 7500
+Connection ~ 7400 7300
+Wire Wire Line
+	7400 7300 8050 7300
+Wire Wire Line
+	7750 7600 7850 7600
+Connection ~ 7850 7600
+Wire Wire Line
+	7850 7600 7850 8000
+Wire Wire Line
+	8050 7300 8050 7500
+Wire Wire Line
+	8050 7500 8100 7500
+Connection ~ 8050 7300
+Wire Wire Line
+	8050 7300 10000 7300
+Wire Wire Line
+	8400 7600 8500 7600
+Connection ~ 8500 7600
+Wire Wire Line
+	8500 7600 8500 8000
+Wire Wire Line
+	8050 6700 8050 6950
+Wire Wire Line
+	8050 6950 8100 6950
+Connection ~ 8050 6700
+Wire Wire Line
+	8050 6700 8700 6700
+Wire Wire Line
+	8400 7050 8500 7050
+Connection ~ 8500 7050
+Wire Wire Line
+	8500 7050 8500 7600
+Wire Wire Line
+	8050 6150 8050 6400
+Wire Wire Line
+	8050 6400 8100 6400
+Connection ~ 8050 6150
+Wire Wire Line
+	8050 6150 8700 6150
+Wire Wire Line
+	8500 6500 8400 6500
+Connection ~ 8500 6500
+Wire Wire Line
+	8500 6500 8500 7050
+Wire Wire Line
+	8050 5600 8050 5850
+Wire Wire Line
+	8050 5850 8100 5850
+Connection ~ 8050 5600
+Wire Wire Line
+	8050 5600 8700 5600
+Wire Wire Line
+	8400 5950 8500 5950
+Connection ~ 8500 5950
+Wire Wire Line
+	8500 5950 8500 6500
+Wire Wire Line
+	8700 5600 8700 5850
+Wire Wire Line
+	8700 5850 8750 5850
+Connection ~ 8700 5600
+Wire Wire Line
+	8700 5600 9350 5600
+Wire Wire Line
+	9050 5950 9200 5950
+Connection ~ 9200 5950
+Wire Wire Line
+	9200 5950 9200 6500
+Wire Wire Line
+	8700 6150 8700 6400
+Wire Wire Line
+	8700 6400 8750 6400
+Connection ~ 8700 6150
+Wire Wire Line
+	8700 6150 9350 6150
+Wire Wire Line
+	9050 6500 9200 6500
+Connection ~ 9200 6500
+Wire Wire Line
+	9200 6500 9200 7050
+Wire Wire Line
+	8700 6700 8700 6950
+Wire Wire Line
+	8700 6950 8750 6950
+Connection ~ 8700 6700
+Wire Wire Line
+	8700 6700 9350 6700
+Wire Wire Line
+	9050 7050 9200 7050
+Connection ~ 9200 7050
+Wire Wire Line
+	9200 7050 9200 8000
+Wire Wire Line
+	9350 5600 9350 5850
+Wire Wire Line
+	9350 5850 9400 5850
+Connection ~ 9350 5600
+Wire Wire Line
+	9350 5600 10550 5600
+Wire Wire Line
+	9700 5950 9850 5950
+Connection ~ 9850 5950
+Wire Wire Line
+	9850 5950 9850 6500
+Wire Wire Line
+	9350 6150 9350 6400
+Wire Wire Line
+	9350 6400 9400 6400
+Connection ~ 9350 6150
+Wire Wire Line
+	9350 6150 10550 6150
+Wire Wire Line
+	9700 7050 9850 7050
+Connection ~ 9850 7050
+Wire Wire Line
+	9850 7050 9850 8000
+Wire Wire Line
+	9700 6500 9850 6500
+Connection ~ 9850 6500
+Wire Wire Line
+	9850 6500 9850 7050
+Wire Wire Line
+	10350 6500 10400 6500
+Connection ~ 10400 6500
+Wire Wire Line
+	10400 6500 10400 7050
+Wire Wire Line
+	10350 7050 10400 7050
+Connection ~ 10400 7050
+Wire Wire Line
+	10400 7050 10400 7600
+Wire Wire Line
+	10350 7600 10400 7600
+Connection ~ 10400 7600
+Wire Wire Line
+	10400 7600 10400 8000
+Wire Wire Line
+	10900 7050 11050 7050
+Connection ~ 11050 7050
+Wire Wire Line
+	11050 7050 11050 8000
+Wire Wire Line
+	10900 6500 11050 6500
+Connection ~ 11050 6500
+Wire Wire Line
+	11050 6500 11050 7050
+Wire Wire Line
+	10900 5950 11050 5950
+Connection ~ 11050 5950
+Wire Wire Line
+	11050 5950 11050 6500
+Wire Wire Line
+	11600 5950 11750 5950
+Connection ~ 11750 5950
+Wire Wire Line
+	11750 5950 11750 6500
+Wire Wire Line
+	11600 6500 11750 6500
+Connection ~ 11750 6500
+Wire Wire Line
+	11750 6500 11750 7050
+Wire Wire Line
+	11600 7050 11750 7050
+Connection ~ 11750 7050
+Wire Wire Line
+	11750 7050 11750 8050
+Wire Wire Line
+	12350 7600 12550 7600
+Connection ~ 12550 7600
+Wire Wire Line
+	12550 7600 12550 7950
+Wire Wire Line
+	12350 7050 12550 7050
+Connection ~ 12550 7050
+Wire Wire Line
+	12550 7050 12550 7600
+Wire Wire Line
+	12350 6500 12550 6500
+Connection ~ 12550 6500
+Wire Wire Line
+	12550 6500 12550 7050
+Wire Wire Line
+	12350 5950 12550 5950
+Connection ~ 12550 5950
+Wire Wire Line
+	12550 5950 12550 6500
+Wire Wire Line
+	13150 5950 13300 5950
+Connection ~ 13300 5950
+Wire Wire Line
+	13300 5950 13300 6500
+Wire Wire Line
+	13150 6500 13300 6500
+Connection ~ 13300 6500
+Wire Wire Line
+	13300 6500 13300 7050
+Wire Wire Line
+	13800 5950 14000 5950
+Connection ~ 14000 5950
+Wire Wire Line
+	14000 5950 14000 6500
+Wire Wire Line
+	13800 6500 14000 6500
+Connection ~ 14000 6500
+Wire Wire Line
+	14000 6500 14000 7050
+Wire Wire Line
+	13850 7050 14000 7050
+Connection ~ 14000 7050
+Wire Wire Line
+	14000 7050 14000 7600
+Wire Wire Line
+	13850 7600 14000 7600
+Connection ~ 14000 7600
+Wire Wire Line
+	14000 7600 14000 8000
+Wire Wire Line
+	13150 7600 13300 7600
+Connection ~ 13300 7600
+Wire Wire Line
+	13300 7600 13300 8000
+Wire Wire Line
+	14600 5950 14800 5950
+Connection ~ 14800 5950
+Wire Wire Line
+	15350 6500 15500 6500
+Connection ~ 15500 6500
+Wire Wire Line
+	15500 6500 15500 7050
+Wire Wire Line
+	15350 7050 15500 7050
+Connection ~ 15500 7050
+Wire Wire Line
+	14650 7600 14800 7600
+Wire Wire Line
+	16800 5950 17000 5950
+Connection ~ 17000 5950
+Wire Wire Line
+	17000 5950 17000 6500
+Wire Wire Line
+	16800 6500 17000 6500
+Connection ~ 17000 6500
+Wire Wire Line
+	17000 6500 17000 7050
+Wire Wire Line
+	16800 7050 17000 7050
+Connection ~ 17000 7050
+Wire Wire Line
+	17000 7050 17000 7600
+Wire Wire Line
+	16800 7600 17000 7600
+Connection ~ 17000 7600
+Wire Wire Line
+	17000 7600 17000 8000
+Wire Wire Line
+	17500 7600 17700 7600
+Connection ~ 17700 7600
+Wire Wire Line
+	17700 7600 17700 8000
+Wire Wire Line
+	17500 7050 17700 7050
+Connection ~ 17700 7050
+Wire Wire Line
+	17700 7050 17700 7600
+Wire Wire Line
+	17500 6500 17700 6500
+Connection ~ 17700 6500
+Wire Wire Line
+	17700 6500 17700 7050
+Wire Wire Line
+	17500 5950 17700 5950
+Wire Wire Line
+	17700 5950 17700 6500
+Wire Wire Line
+	12850 6400 12800 6400
+Wire Wire Line
+	12800 6400 12800 6150
+Connection ~ 12800 6150
+Wire Wire Line
+	12800 6150 13450 6150
+Wire Wire Line
+	12850 5850 12800 5850
+Wire Wire Line
+	12800 5850 12800 5600
+Connection ~ 12800 5600
+Wire Wire Line
+	12800 5600 13450 5600
+Wire Wire Line
+	13500 6400 13450 6400
+Wire Wire Line
+	13450 6400 13450 6150
+Connection ~ 13450 6150
+Wire Wire Line
+	13500 5850 13450 5850
+Wire Wire Line
+	13450 5850 13450 5600
+Connection ~ 13450 5600
+Wire Wire Line
+	13450 5600 14250 5600
+Wire Wire Line
+	14300 5850 14250 5850
+Wire Wire Line
+	14250 5850 14250 5600
+Connection ~ 14250 5600
+Wire Wire Line
+	15000 6400 15000 6150
+Connection ~ 15000 6150
+Wire Wire Line
+	15000 6150 17200 6150
+Wire Wire Line
+	15050 6950 15000 6950
+Wire Wire Line
+	15000 6950 15000 6700
+Connection ~ 15000 6700
+Wire Wire Line
+	15000 6700 17200 6700
+Wire Wire Line
+	14350 7500 14300 7500
+Wire Wire Line
+	14300 7500 14300 7300
+Wire Wire Line
+	13550 6950 13500 6950
+Wire Wire Line
+	13500 6950 13500 6700
+Connection ~ 13500 6700
+Wire Wire Line
+	13500 6700 14300 6700
+Wire Wire Line
+	13550 7500 13500 7500
+Wire Wire Line
+	13500 7500 13500 7300
+Connection ~ 13500 7300
+Wire Wire Line
+	12850 7500 12800 7500
+Wire Wire Line
+	12800 7500 12800 7300
+Connection ~ 12800 7300
+Wire Wire Line
+	12800 7300 13500 7300
+Wire Wire Line
+	12050 6950 12000 6950
+Wire Wire Line
+	12000 6950 12000 6700
+Connection ~ 12000 6700
+Wire Wire Line
+	12000 6700 12800 6700
+Wire Wire Line
+	12050 6400 12000 6400
+Wire Wire Line
+	12000 6400 12000 6150
+Connection ~ 12000 6150
+Wire Wire Line
+	12000 6150 12800 6150
+Wire Wire Line
+	12050 5850 12000 5850
+Wire Wire Line
+	12000 5850 12000 5600
+Connection ~ 12000 5600
+Wire Wire Line
+	12000 5600 12800 5600
+Wire Wire Line
+	12050 7500 12000 7500
+Wire Wire Line
+	12000 7500 12000 7300
+Connection ~ 12000 7300
+Wire Wire Line
+	12000 7300 12800 7300
+Wire Wire Line
+	11300 6950 11250 6950
+Wire Wire Line
+	11250 6950 11250 6700
+Connection ~ 11250 6700
+Wire Wire Line
+	11250 6700 12000 6700
+Wire Wire Line
+	11300 6400 11250 6400
+Wire Wire Line
+	11250 6400 11250 6150
+Connection ~ 11250 6150
+Wire Wire Line
+	11250 6150 12000 6150
+Wire Wire Line
+	11300 5850 11250 5850
+Wire Wire Line
+	11250 5850 11250 5600
+Connection ~ 11250 5600
+Wire Wire Line
+	11250 5600 12000 5600
+Wire Wire Line
+	10600 5850 10550 5850
+Wire Wire Line
+	10550 5850 10550 5600
+Connection ~ 10550 5600
+Wire Wire Line
+	10550 5600 11250 5600
+Wire Wire Line
+	10600 6400 10550 6400
+Wire Wire Line
+	10550 6400 10550 6150
+Connection ~ 10550 6150
+Wire Wire Line
+	10550 6150 11250 6150
+Wire Wire Line
+	10050 6950 10000 6950
+Wire Wire Line
+	10000 6950 10000 6700
+Connection ~ 10000 6700
+Wire Wire Line
+	10000 6700 11250 6700
+Wire Wire Line
+	10050 7500 10000 7500
+Wire Wire Line
+	10000 7500 10000 7300
+Connection ~ 10000 7300
+Wire Wire Line
+	10000 7300 12000 7300
+Wire Wire Line
+	9400 6950 9350 6950
+Wire Wire Line
+	9350 6950 9350 6700
+Connection ~ 9350 6700
+Wire Wire Line
+	9350 6700 10000 6700
+Wire Wire Line
+	13500 7300 14300 7300
+Wire Wire Line
+	14800 5950 14800 6050
+$Comp
+L switches:CherryMX S69
+U 1 1 6153289C
+P 14500 6950
+F 0 "S69" H 14485 7185 50  0000 C CNN
+F 1 "1.75" H 14485 7094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_Plate" H 14710 6950 50  0001 C CNN
+F 3 "" H 14710 6950 50  0001 C CNN
+	1    14500 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D69
+U 1 1 6153332E
+P 14500 7050
+F 0 "D69" H 14650 6750 50  0000 C CNN
+F 1 "D_Schottky" H 14475 7150 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 14500 7050 50  0001 C CNN
+F 3 "~" H 14500 7050 50  0001 C CNN
+	1    14500 7050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	14650 6950 14650 7000
+Wire Wire Line
+	14650 7000 14350 7000
+Wire Wire Line
+	14350 7000 14350 7050
+Wire Wire Line
+	14650 6950 14620 6950
+Wire Wire Line
+	14650 7050 14800 7050
+Wire Wire Line
+	14350 6950 14300 6950
+Wire Wire Line
+	14300 6950 14300 6700
+Connection ~ 14300 6700
+Wire Wire Line
+	14300 6700 15000 6700
+Connection ~ 14800 7050
+Wire Wire Line
+	14800 7050 14800 7600
+Connection ~ 14300 7300
+Connection ~ 14800 7600
+Wire Wire Line
+	14800 7600 14800 8050
+Wire Wire Line
+	15500 7050 15500 8050
+$Comp
+L switches:CherryMX S68
+U 1 1 615D7486
+P 13000 6950
+F 0 "S68" H 12985 7185 50  0000 C CNN
+F 1 "." H 12985 7094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 13210 6950 50  0001 C CNN
+F 3 "" H 13210 6950 50  0001 C CNN
+	1    13000 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D68
+U 1 1 615D7F40
+P 13000 7050
+F 0 "D68" H 13150 6750 50  0000 C CNN
+F 1 "D_Schottky" H 12975 7150 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 13000 7050 50  0001 C CNN
+F 3 "~" H 13000 7050 50  0001 C CNN
+	1    13000 7050
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	13150 6950 13150 7000
+Wire Wire Line
+	13150 7000 12850 7000
+Wire Wire Line
+	12850 7000 12850 7050
+Wire Wire Line
+	13150 6950 13120 6950
+Wire Wire Line
+	13150 7050 13300 7050
+Wire Wire Line
+	12850 6950 12800 6950
+Wire Wire Line
+	12800 6950 12800 6700
+Connection ~ 12800 6700
+Wire Wire Line
+	12800 6700 13500 6700
+Connection ~ 13300 7050
+Wire Wire Line
+	13300 7050 13300 7600
+$Comp
+L Device:D_Schottky D?
+U 1 1 5F8EF612
+P 15900 6000
+F 0 "D?" H 16050 5700 50  0000 C CNN
+F 1 "D_Schottky" H 15875 6100 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 15900 6000 50  0001 C CNN
+F 3 "~" H 15900 6000 50  0001 C CNN
+	1    15900 6000
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	16050 5900 16050 5950
+Wire Wire Line
+	16050 5950 15750 5950
+Wire Wire Line
+	15750 5950 15750 6000
+Wire Wire Line
+	16050 5900 16020 5900
+Wire Wire Line
+	15750 5900 15700 5900
+$Comp
+L switches:CherryMX S?
+U 1 1 5F8EEB58
+P 15900 5900
+F 0 "S?" H 15885 6135 50  0000 C CNN
+F 1 "\\" H 15885 6044 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_Plate" H 16110 5900 50  0001 C CNN
+F 3 "" H 16110 5900 50  0001 C CNN
+	1    15900 5900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	14300 7300 17200 7300
+Wire Wire Line
+	15050 6400 15000 6400
+Wire Wire Line
+	15350 6400 15320 6400
+Wire Wire Line
+	13450 6150 14250 6150
+Wire Wire Line
+	14250 5600 15700 5600
+Wire Wire Line
+	15500 5400 15500 6050
+Wire Wire Line
+	15350 5950 15350 6050
+Wire Wire Line
+	15350 6050 14800 6050
+Connection ~ 14800 6050
+Wire Wire Line
+	14800 6050 14800 6500
+Wire Wire Line
+	14700 5850 14700 6150
+Wire Wire Line
+	14700 5850 15050 5850
+Connection ~ 14700 6150
+Wire Wire Line
+	14700 6150 15000 6150
+Wire Wire Line
+	15700 5600 15700 5900
+Connection ~ 15700 5600
+Wire Wire Line
+	15700 5600 17200 5600
+Wire Wire Line
+	16050 6000 16050 6050
+Wire Wire Line
+	16050 6050 15500 6050
+Connection ~ 15500 6050
+Wire Wire Line
+	15500 6050 15500 6500
+$Comp
+L switches:CherryMX S?
+U 1 1 5FC8BBDD
+P 14450 6400
+F 0 "S?" H 14435 6635 50  0000 C CNN
+F 1 "'" H 14435 6544 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 14660 6400 50  0001 C CNN
+F 3 "" H 14660 6400 50  0001 C CNN
+	1    14450 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Schottky D?
+U 1 1 5FC8C6BF
+P 14450 6500
+F 0 "D?" H 14600 6200 50  0000 C CNN
+F 1 "D_Schottky" H 14425 6600 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 14450 6500 50  0001 C CNN
+F 3 "~" H 14450 6500 50  0001 C CNN
+	1    14450 6500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	14600 6400 14600 6450
+Wire Wire Line
+	14600 6450 14300 6450
+Wire Wire Line
+	14300 6450 14300 6500
+Wire Wire Line
+	14600 6400 14570 6400
+Wire Wire Line
+	14600 6500 14800 6500
+Wire Wire Line
+	14300 6400 14250 6400
+Wire Wire Line
+	14250 6400 14250 6150
+Connection ~ 14250 6150
+Wire Wire Line
+	14250 6150 14700 6150
+Connection ~ 14800 6500
+Wire Wire Line
+	14800 6500 14800 7050
+$EndSCHEMATC

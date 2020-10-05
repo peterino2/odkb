@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name rotary_encoder)(type KiCad)(uri ${KIPRJMOD}/libs/rotary_encoder)(options "")(descr ""))
+  (lib (name sparkfun)(type KiCad)(uri ${KIPRJMOD}/libs/sparkfun.pretty)(options "")(descr ""))
+  (lib (name teensy)(type KiCad)(uri ${KIPRJMOD}/libs/teensy.pretty)(options "")(descr ""))
+)

@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:ODKB_Board-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -459,7 +459,7 @@ Wire Wire Line
 Wire Wire Line
 	1800 2050 1900 2050
 $Comp
-L Device:R R2
+L ODKB_Board-rescue:R-Device R2
 U 1 1 5B5EB403
 P 4050 1150
 F 0 "R2" H 4120 1196 50  0000 L CNN
@@ -503,7 +503,7 @@ Wire Wire Line
 	8700 1000 8700 950 
 Connection ~ 8600 1000
 $Comp
-L power:+3V3 #PWR0102
+L ODKB_Board-rescue:+3V3-power #PWR0102
 U 1 1 5B643FD8
 P 8700 950
 F 0 "#PWR0102" H 8700 800 50  0001 C CNN
@@ -514,7 +514,7 @@ F 3 "" H 8700 950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x05_Male J1
+L ODKB_Board-rescue:Conn_01x05_Male-Connector J1
 U 1 1 5B659863
 P 1050 3900
 F 0 "J1" H 1156 4278 50  0000 C CNN
@@ -541,7 +541,7 @@ Wire Wire Line
 Wire Wire Line
 	1350 4100 1350 4250
 $Comp
-L Connector:USB_B_Micro J2
+L ODKB_Board-rescue:USB_B_Micro-Connector J2
 U 1 1 5B6D868F
 P 3400 1400
 F 0 "J2" H 3455 1867 50  0000 C CNN
@@ -678,7 +678,7 @@ NRST
 Wire Wire Line
 	7400 1300 7600 1300
 $Comp
-L Connector:Conn_01x03_Male J3
+L ODKB_Board-rescue:Conn_01x03_Male-Connector J3
 U 1 1 5BACA85C
 P 6800 1500
 F 0 "J3" H 6906 1778 50  0000 C CNN
@@ -804,7 +804,7 @@ Connection ~ 1750 5200
 Wire Wire Line
 	1750 5200 1950 5200
 $Comp
-L Device:R R11
+L ODKB_Board-rescue:R-Device R11
 U 1 1 5CBBCD04
 P 4400 1500
 F 0 "R11" H 4470 1546 50  0000 L CNN
@@ -819,7 +819,7 @@ Wire Wire Line
 Wire Wire Line
 	4550 1500 4750 1500
 $Comp
-L Device:R R10
+L ODKB_Board-rescue:R-Device R10
 U 1 1 5CBDCEB7
 P 4400 1400
 F 0 "R10" H 4470 1446 50  0000 L CNN
@@ -930,7 +930,7 @@ Wire Notes Line
 Wire Notes Line
 	3050 2100 5650 2100
 $Comp
-L MCU_ST_STM32F1:STM32F103RCTx U2
+L ODKB_Board-rescue:STM32F103RCTx-MCU_ST_STM32F1 U2
 U 1 1 5B5EB0A7
 P 8300 2900
 F 0 "U2" H 8300 1014 50  0000 C CNN
@@ -941,7 +941,7 @@ F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/da
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED D1
+L ODKB_Board-rescue:LED-Device D1
 U 1 1 5CCD99F3
 P 5100 2650
 F 0 "D1" H 5091 2866 50  0000 C CNN
@@ -952,7 +952,7 @@ F 3 "~" H 5100 2650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:LED D2
+L ODKB_Board-rescue:LED-Device D2
 U 1 1 5CCD9A75
 P 5400 2650
 F 0 "D2" H 5391 2866 50  0000 C CNN
@@ -963,7 +963,7 @@ F 3 "~" H 5400 2650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:LED D3
+L ODKB_Board-rescue:LED-Device D3
 U 1 1 5CCD9ABB
 P 5700 2650
 F 0 "D3" H 5691 2866 50  0000 C CNN
@@ -974,7 +974,7 @@ F 3 "~" H 5700 2650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:R R4
+L ODKB_Board-rescue:R-Device R4
 U 1 1 5CD080A9
 P 5100 3000
 F 0 "R4" H 5170 3046 50  0000 L CNN
@@ -985,7 +985,7 @@ F 3 "~" H 5100 3000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R5
+L ODKB_Board-rescue:R-Device R5
 U 1 1 5CD08171
 P 5400 3000
 F 0 "R5" H 5470 3046 50  0000 L CNN
@@ -996,7 +996,7 @@ F 3 "~" H 5400 3000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R6
+L ODKB_Board-rescue:R-Device R6
 U 1 1 5CD081BB
 P 5700 3000
 F 0 "R6" H 5770 3046 50  0000 L CNN
@@ -1065,10 +1065,10 @@ Connection ~ 4050 1400
 Wire Wire Line
 	4050 1300 4050 1400
 $Comp
-L stmf0_1d-rescue:+5V #PWR?
+L stmf0_1d-rescue:+5V #PWR0101
 U 1 1 5D9BEB5C
 P 4150 950
-F 0 "#PWR?" H 4150 800 50  0001 C CNN
+F 0 "#PWR0101" H 4150 800 50  0001 C CNN
 F 1 "+5V" H 4150 1090 50  0000 C CNN
 F 2 "" H 4150 950 50  0001 C CNN
 F 3 "" H 4150 950 50  0001 C CNN
